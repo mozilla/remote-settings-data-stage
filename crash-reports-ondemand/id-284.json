@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["ec1597931d13ea53eb3065bf75c5f97951b09761b813a5f19e8223f64b057938","1a099af45d8ff73f012b6a5af333b6ca2f519a5f5a662be48de785716417e65a"],"id":"id-284","last_modified":1788510538698,"schema":1788510342789}
+{"description":"content (Mac nightly): webrtc::CloneSenderVideoFrame","hashes":["e91d778a3c716f51d9302fd45efc3f240979e650db8f61a4707af47f298926b8"],"id":"id-284","last_modified":1788597523186,"schema":1788597340675}

@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["00fb200482b2ff107d490e9328a67c21c82b06c77d884678e4b84aec1995d5cf"],"id":"id-274","last_modified":1788510538671,"schema":1788510329029}
+{"description":"gpu (Android beta): vulkan.powervr.so","hashes":["87e3f879f6572b0dcb55878ba1a38ae80769405e895ab9498c07b779399dad5f","0e949f72a5e0088bcca2b8df7670320f69d11fcc72b3ff6cc87088009af1f6a7"],"id":"id-274","last_modified":1788597523160,"schema":1788597329338}

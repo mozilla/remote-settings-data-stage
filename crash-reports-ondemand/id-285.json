@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): AsyncShutdownTimeout | AddonManager: Waiting to start provider shutdown. | AddonRepository Background Updater","hashes":["fd7b10a3a0836d12520d88427e0d5b3a84bf964091a08fa912e48b2a22f1e4a3","a3826fde777d7b2e76ddece85ec810f80c3dca2deb01b8caacc1a7fd825765c8"],"id":"id-285","last_modified":1788510538553,"schema":1788510343929}
+{"description":"socket (Windows beta): gdi32.dll","hashes":["e5e985af07c15d0d26f2f7551bd60c05a09120ae77f2d380ec22a953a1e0dc60"],"id":"id-285","last_modified":1788597523047,"schema":1788597341791}

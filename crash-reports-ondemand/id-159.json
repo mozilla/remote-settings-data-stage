@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::net::DNSRequestSender::StartRequest","hashes":["2a9e9c420dea4aafc70d849cc901d099cb111194746c05a813b0b045880cb758"],"id":"id-159","last_modified":1788510538848,"schema":1788510194889}
+{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["f14b3a4d53611863669a3b3cb11b404c0c66d8c03cdbc387603e3123f028a6b6","9c931dc32020cf1e4973ef93bb263c76efbbc8a20282bf940a2274cdc92ef3c8"],"id":"id-159","last_modified":1788597523321,"schema":1788597196895}
