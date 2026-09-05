@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::NavigationWaitForAllScope::CommitNavigateEventSuccessSteps | mozilla::dom::Navigation::RunNavigateEventHandlerSteps::$::operator()","hashes":["f67572dc67b0ace6c321a1ba688f0c02b279b3b0f93b5580f3e9cbf252a6b8db"],"id":"id-276","last_modified":1788510537865,"schema":1788510331282}
+{"description":"gpu (Mac beta): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["3167d418f09766182ed22ddaeca87e192bb55b5c55e35c0fb97debe2d7671c6d"],"id":"id-276","last_modified":1788597522271,"schema":1788597331587}

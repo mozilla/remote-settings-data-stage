@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::jit::MUse::setProducerUnchecked","hashes":["44ad3c5e835084fa83ce7e97f7a37606c633edc2600c975bcc95bc73a2d4e902"],"id":"id-238","last_modified":1788510537662,"schema":1788510287598}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["3822e64daee72579c97f7697a6ae9bb84a969e24a82c52aae5f2663306a7cf5d"],"id":"id-238","last_modified":1788597522124,"schema":1788597286010}
