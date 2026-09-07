@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["4b54bda082a9e22abcf7499b0ff29ec02c12522b511a7e9968166e8ed9a0be96"],"id":"id-031","last_modified":1788597523030,"schema":1788597043736}
+{"description":"content (Mac nightly): webrtc::CloneSenderVideoFrame","hashes":["e91d778a3c716f51d9302fd45efc3f240979e650db8f61a4707af47f298926b8"],"id":"id-031","last_modified":1788769736649,"schema":1788769248348}

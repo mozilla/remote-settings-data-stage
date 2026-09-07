@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::Maybe<T>::ptr | mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["83c900d624e3f03c2c523bdb52788d8e1a51a4f4c6b30a9d5bc8418e8f033dd4"],"id":"id-106","last_modified":1788597523143,"schema":1788597133800}
+{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["9c931dc32020cf1e4973ef93bb263c76efbbc8a20282bf940a2274cdc92ef3c8","f14b3a4d53611863669a3b3cb11b404c0c66d8c03cdbc387603e3123f028a6b6"],"id":"id-106","last_modified":1788769736742,"schema":1788769342466}
