@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | mozilla::gl::GetAndInitDisplay","hashes":["614390584710c4eb3fedd60cd3721a6ae0a247f380f88dd3587178e68816fd1f"],"id":"id-342","last_modified":1788597521779,"schema":1788597409811}
+{"description":"gpu (Android nightly): libc.so | webrender::renderer::Renderer::draw_frame","hashes":["c53e8d3599fb3bcc471645660bf0a25766ec5406ceb29826b9a2ff6ae5adacb0"],"id":"id-342","last_modified":1788769735585,"schema":1788769619011}
