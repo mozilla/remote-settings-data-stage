@@ -1,0 +1,1 @@
+{"bugIds":["2058881"],"category":"baseline","classifierFeatures":["tracking-protection","tracking-annotation"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"bd2d25b9-2bcb-4bd0-b1a6-75f531e5c250","last_modified":1788833416073,"schema":1788833415780,"topLevelUrlPattern":"*://www.airbnb.at/*","urlPattern":"*://*.muscache.com/*"}
