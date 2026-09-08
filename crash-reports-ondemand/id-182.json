@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::dom::HTMLInputElement::LegacyPreActivationBehavior","hashes":["15d9ffe0bf68a203dc99ede1a7e74550a3945957d2988f939f5f22a90bb4c503"],"id":"id-182","last_modified":1788769735574,"schema":1788769431658}
+{"description":"content (Mac beta): mozilla::binding_danger::TErrorResult<T>::IsJSContextException","hashes":["a0ee4caf11a47d2033e4a33208dcecb6e65eceb2047f5d3e633a4571ef462979"],"id":"id-182","last_modified":1788857936383,"schema":1788857626473}

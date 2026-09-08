@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | mozilla::gl::GetAndInitDisplay","hashes":["614390584710c4eb3fedd60cd3721a6ae0a247f380f88dd3587178e68816fd1f"],"id":"id-181","last_modified":1788769735735,"schema":1788769430507}
+{"description":"gpu (Linux release): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["6c2cd3aba9b18c1ca81c6aa33c0901ebbb872b21b1182c062341021c76f4a107"],"id":"id-181","last_modified":1788857936493,"schema":1788857625342}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["b1fb85bfd7816bfb8f0ea72dceb353050a7a357b16e76a61d32b6a45203fbe50","f54cb8ee54d7897a784b99680da6d5c0e3374f9922ca229d4dc7b32f1dc18ca6","dd3da6fbf683f6512401c7acd0042658a8485926deca6712f884debba7205fed"],"id":"id-172","last_modified":1788769735304,"schema":1788769420156}
+{"description":"socket (Windows beta): @0x4ff0030","hashes":["2c7363e6ddf6e9bdbb4ad72599f03efe00ab5a8a92c1a2649c62342f2d026244"],"id":"id-172","last_modified":1788857936120,"schema":1788857614928}
