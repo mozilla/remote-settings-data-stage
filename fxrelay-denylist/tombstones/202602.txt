@@ -1,0 +1,16 @@
+1770395828521	www-amazon-co-uk
+1770395828525	www-amazon-com
+1770395828528	www-amazon-de
+1770395828531	www-google-com
+1770395828534	account-booking-com
+1770395828537	appleid-apple-com
+1770395828540	www-tiktok-com
+1770395828543	www-youtube-com
+1770395828546	auth-services-adobe-com
+1770395828549	discord-com
+1770395828551	secure-indeed-com
+1770395828554	secure-soundcloud-com
+1770395828557	signin-aws-amazon-com
+1770395828560	mail-google-com
+1770395828563	onlyfans-com
+1770395828566	www-reddit-com
