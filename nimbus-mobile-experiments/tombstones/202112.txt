@@ -1,0 +1,16 @@
+1639057113779	firefox-android-multifeature-test-copy
+1639065779297	ios-c
+1639065813126	android-c
+1639148455795	ppop-mobile-phones-are-weird
+1639150743551	fenix-default-browser-experiment-single-feature
+1639152116201	12-10-android
+1639669811859	ppop-focus-android-ab-v96-beta-experiment-stage-clone
+1639739277334	ppop-focus-android-ab-v96-beta-experiment-stage-clone-copy
+1639744199622	ppop-focus-no-feature
+1639991581781	experiment-for-rollout-1-test-2
+1639995819946	rollout-mobile-test1-copy-2
+1640182689029	mcoman-smoke-android-12222021-copy
+1640183891054	mcoman-smoke-android-12222021
+1640186187142	mcoman-smoke-android-12222021-copy2
+1640253646838	mcoman-smoke-android-12222021-copy3
+1640349311543	ppop-haioase

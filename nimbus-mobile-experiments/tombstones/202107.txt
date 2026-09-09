@@ -1,0 +1,17 @@
+1625572094097	cmuresanpi-1099-default-browser-card-ios-test
+1625572277323	cmuresanpi-1099-default-browser-card-ios-test-no-channel
+1625572837070	cmuresanpi-1099-default-browser-card-ios-test-no-channelno-version
+1625573395849	cmuresanpi-1099-default-browser-card-ios-test-no-version
+1625649081435	android-test-maria-4
+1626251982645	cmuresanpi-1099-default-browser-card-ios-nightly-version-1
+1626256815206	android-test-maria-3
+1626265108811	cmuresanpi-1099-default-browser-card-ios-nightly-v2
+1627396750991	ppop-ios-test3
+1627559625855	cmuresan-default_fenix_experiment_test-v2
+1627560008059	cmuresan-default_fenix_experiment_test
+1627560046677	test-nimbus-maria-1
+1627560375450	ppop-ios-best-os
+1627560457079	test-nimbus-android-2
+1627560696896	cmuresanpi-1099-default-browser-card-ios-100-treatment
+1627560743956	ppop-ios-test
+1627560766108	mheres-07-23-2021-active
