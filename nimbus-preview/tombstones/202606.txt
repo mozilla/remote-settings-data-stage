@@ -1,0 +1,8 @@
+1780567819098	avarro-applinks-prompt-experiment
+1780641318893	avarro-qa-5303-rollout
+1781252577468	vbandac-feature-configuration-externallinkhandling-not-sticky-and-prevent-on
+1781252609986	vbandac-feature-configuration-testing-for-newtabwidgets-sticky
+1781523123718	cfat-2-bug-2042814-bug-fix-verification
+1781523126956	cfat-1-bug-2042814-bug-fix-verification
+1781792578871	default-new-users-to-launch-firefox-when-windows-starts
+1781792602337	offer-session-restore-on-by-default-to-new-users
