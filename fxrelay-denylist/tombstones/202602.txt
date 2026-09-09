@@ -1,0 +1,16 @@
+1770733208210	www-amazon-co-uk
+1770733208213	secure-indeed-com
+1770733208216	www-amazon-com
+1770733208219	www-amazon-de
+1770733208222	www-google-com
+1770733208225	account-booking-com
+1770733208228	appleid-apple-com
+1770733208231	www-tiktok-com
+1770733208234	www-youtube-com
+1770733208237	auth-services-adobe-com
+1770733208240	discord-com
+1770733208243	secure-soundcloud-com
+1770733208246	signin-aws-amazon-com
+1770733208249	mail-google-com
+1770733208251	onlyfans-com
+1770733208255	www-reddit-com
