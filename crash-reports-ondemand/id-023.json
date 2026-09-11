@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::Maybe<T>::ptr | mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["83c900d624e3f03c2c523bdb52788d8e1a51a4f4c6b30a9d5bc8418e8f033dd4"],"id":"id-023","last_modified":1789031344542,"schema":1789030840695}
+{"description":"content (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["f9646999e9f08fc95351aba3d89adfe53349127b8f3b5531f6501654f7346954","5a4d1037fdf039d43282733012f33c2d945e183958c982093623afcc7899f002"],"id":"id-023","last_modified":1789125559753,"schema":1789125038775}
