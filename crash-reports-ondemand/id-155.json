@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::ipc::IOThread::StartThread","hashes":["498f45930fc091d86d1af8259358cbb4566d865bf025016e162996ad718f58d3","34de7e317f707defdb04f276e6cb9b19802f67c22d7115691486f46bdcf8130a"],"id":"id-155","last_modified":1789031345932,"schema":1789031006884}
+{"description":"content (Android nightly): mozilla::Maybe<T>::operator-> | js::GlobalObject::getSelfHostedFunction","hashes":["55a0fdb8df583c1a9f77acf0be19cf747a65783cff73020867c26261d18f57cc"],"id":"id-155","last_modified":1789125561372,"schema":1789125198584}
