@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::mscom::ProcessRuntime::ProcessRuntime","hashes":["94e3e3c2c8f5f933291cdd123c77d14857dc62f535a4769c3893b1ac7c483967"],"id":"id-194","last_modified":1789125559239,"schema":1789125244858}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["1f26ef61f9643a1a8b9e0cc205f1a3e0826872a07d4358b3f4297d73c4819d9b"],"id":"id-194","last_modified":1789289353424,"schema":1789289044950}

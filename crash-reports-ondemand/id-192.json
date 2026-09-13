@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["d66b0b4988424344ba91fd96a16f85c23f2d5c408ee7a076d2d9d27a4ad17ce0"],"id":"id-192","last_modified":1789125559304,"schema":1789125242536}
+{"description":"socket (Linux release): <ipcclientcerts::backend::Backend as rsclientcerts::manager::ClientCertsBackend>::get_slot_info","hashes":["ca8bb3cb1f59870a43211b0d756eafc8c574b16387be7368188e5a0baf7168e1"],"id":"id-192","last_modified":1789289353483,"schema":1789289042534}
