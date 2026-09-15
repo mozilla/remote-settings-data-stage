@@ -1,0 +1,1 @@
+{"Domain":"hdfcbank.com","id":"2cd2f794-1d17-4451-95dc-c8e2a1e586ea","last_modified":1789491608498,"password-rules":"minlength: 8; maxlength: 15; required: digit; required: upper, lower; allowed: [@&:|.^~#_$!)?];"}
