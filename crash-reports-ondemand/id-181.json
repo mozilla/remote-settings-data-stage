@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["6772e66c8d90d53fd12352d9d3ed77ffa1dcfeab2641bd9752a28323ac5e22c3"],"id":"id-181","last_modified":1789376373023,"schema":1789376033256}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["05660c9e95f4fe1b01eac9feaa8e895288bb560993a6d5a333c96cdaa8255a85"],"id":"id-181","last_modified":1789463384288,"schema":1789463041587}
