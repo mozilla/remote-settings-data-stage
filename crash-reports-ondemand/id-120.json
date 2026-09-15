@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::layers::OverscrollHandoffChain::Length","hashes":["e5d925a9221d600a0ca293971427ab31763af0a35d8383d340d3f0652f5b5ab7","95617f69a825baf6c3d39e3b414cec6c13b837a89f0dc04c7eb1db7dc7197812"],"id":"id-120","last_modified":1789376371929,"schema":1789375955843}
+{"description":"content (Linux nightly): <.plt ELF section in libxul.so> | js_free | JS::FreePolicy::operator()","hashes":["eb7ddacef56f0fef95212c376fb5813a6ab5095576d02fbcb7807d708a3e82d4"],"id":"id-120","last_modified":1789463383194,"schema":1789462959062}
