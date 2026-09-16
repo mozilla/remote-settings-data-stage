@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::BarrieredPtrImpl<T>::operator bool","hashes":["109074b0027e01c50a6cc24335b3cffd00d5cb152166fd32c42559fadc8ed2ac"],"id":"id-192","last_modified":1789463384218,"schema":1789463061143}
+{"description":"content (Mac nightly): js::SinglyLinkedList<T>::popFront","hashes":["674607b00b56fe8a82b9b56ed00617a7a9511a174ece449486ee1c478a42ed0b"],"id":"id-192","last_modified":1789550348261,"schema":1789550044494}
