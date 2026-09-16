@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | libc.so | MozTaggedAnonymousMmap","hashes":["980916177034f0b127202264f62ddc4f1ce74f9350f9e8236eaa8ec1e1d9b369"],"id":"id-372","last_modified":1789463382801,"schema":1789463293719}
+{"description":"content (Linux nightly): mozilla::ipc::IProtocol::CanSend","hashes":["c9b31c3af1ce88e7bf04dd39ea99fa6ae2f977a1eecbe471825298ac8d0a8651"],"id":"id-372","last_modified":1789550346816,"schema":1789550265942}

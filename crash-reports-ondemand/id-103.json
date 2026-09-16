@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): __abort | abort | malloc_vreport | malloc_report | thread_start","hashes":["2024d716b4ffb7ab66df49b212fb326871f419c5c8ce9846bb96f26af5812917"],"id":"id-103","last_modified":1789463383415,"schema":1789462938072}
+{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["040f589e7454b58e0051abe4fb08df3dec8929acc98a67427929476fd63a174d","9f9c83e5df88be03072f2ae9883cf28d83e7b6eb0b42ffc8076543c16b23237b"],"id":"id-103","last_modified":1789550347591,"schema":1789549934619}
