@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["6772e66c8d90d53fd12352d9d3ed77ffa1dcfeab2641bd9752a28323ac5e22c3"],"id":"id-024","last_modified":1789550346626,"schema":1789549838610}
+{"description":"content (Mac nightly): js::SinglyLinkedList<T>::popFront","hashes":["674607b00b56fe8a82b9b56ed00617a7a9511a174ece449486ee1c478a42ed0b"],"id":"id-024","last_modified":1789635548173,"schema":1789635042644}

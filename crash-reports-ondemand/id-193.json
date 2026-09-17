@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["5ecd95e4fc4211c6919e8ceae3964f19e96fd4e8b7608f4183f6c07b3226e015"],"id":"id-193","last_modified":1789550347085,"schema":1789550045718}
+{"description":"content (Linux nightly): mozilla::StyleGenericCalcNode<T>::~StyleGenericCalcNode","hashes":["c44a843c054b64016aff28c172d61010a400c9a9758cd598e62be5c958ca2e62"],"id":"id-193","last_modified":1789635548581,"schema":1789635245546}
