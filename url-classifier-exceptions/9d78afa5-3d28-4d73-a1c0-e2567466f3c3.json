@@ -1,0 +1,1 @@
+{"bugIds":["2071862"],"category":"baseline","classifierFeatures":["tracking-protection","tracking-annotation"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9d78afa5-3d28-4d73-a1c0-e2567466f3c3","last_modified":1789637669322,"schema":1789524610331,"topLevelUrlPattern":"*://www.delta.com/*","urlPattern":"*://cdn.trackjs.com/*"}

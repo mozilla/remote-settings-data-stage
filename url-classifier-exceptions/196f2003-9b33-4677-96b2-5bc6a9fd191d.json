@@ -1,0 +1,1 @@
+{"bugIds":["2070476"],"category":"baseline","classifierFeatures":["tracking-protection","tracking-annotation"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"196f2003-9b33-4677-96b2-5bc6a9fd191d","last_modified":1789637669314,"schema":1789376241908,"topLevelUrlPattern":"*://wetv.vip/*","urlPattern":"*://vm.gtimg.cn/*"}
