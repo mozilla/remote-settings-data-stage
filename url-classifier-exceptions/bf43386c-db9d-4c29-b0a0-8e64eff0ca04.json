@@ -1,0 +1,1 @@
+{"bugIds":["2069939"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"bf43386c-db9d-4c29-b0a0-8e64eff0ca04","last_modified":1789611009429,"schema":1789611008620,"topLevelUrlPattern":"*://kakuyomu.jp/*","urlPattern":"*://*.st-hatena.com/*"}
