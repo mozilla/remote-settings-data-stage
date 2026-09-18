@@ -1,0 +1,1 @@
+{"bugIds":["2072524"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"380eefd4-0506-453a-9ba7-29dd80e12423","last_modified":1789697413617,"schema":1789697413090,"topLevelUrlPattern":"*://www.worldwidegolfshops.com/*","urlPattern":"*://libraries.unbxdapi.com/*"}

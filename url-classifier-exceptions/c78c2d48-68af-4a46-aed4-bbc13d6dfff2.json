@@ -1,0 +1,1 @@
+{"bugIds":["2072534"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c78c2d48-68af-4a46-aed4-bbc13d6dfff2","last_modified":1789697413606,"schema":1789637669628,"topLevelUrlPattern":"*://www.mibicitubici.gob.ar/*","urlPattern":"*://secure.mlstatic.com/*"}
