@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | mozilla::dom::RTCStatsReport::Constructor","hashes":["ec1303632c476a3cf9dd8ccb12a5bc6f4333d3be200ef785d07a8c37b1bb70bb"],"id":"id-412","last_modified":1789635548864,"schema":1789635523217}
+{"description":"content (Mac nightly): mozilla::dom::ThreadSafeWorkerRef::Private","hashes":["831d1e70f2c80199339248c18524ea92c713b2fec2f4495b4f58a2dd94cf4385"],"id":"id-412","last_modified":1789805958606,"schema":1789805938863}
