@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::ReadableStreamDefaultReader::Read","hashes":["c4e07c275953425be3d70db440d79f1432035ede837e10e89674eecd693a74bf"],"id":"id-164","last_modified":1789805959513,"schema":1789805609758}
+{"description":"socket (Mac release): destroy_assoc_chain","hashes":["d67b14bda55b08d53e22870ca6325fd92d4221fd3850992382790b2a11eceaba"],"id":"id-164","last_modified":1789979980169,"schema":1789979626290}
