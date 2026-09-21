@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): JS::shadow::Shape::isProxy","hashes":["24f7f15ccb39e59b63cb229b003cc9c978e1c65697be5c09427a82252aa4ea77"],"id":"id-202","last_modified":1789805958067,"schema":1789805667249}
+{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::AutoClonedRangeArray::FirstRangeRef","hashes":["3e3ed1f44ba52a3341474b5af11906242b8679bc5e59bbddc67c821b3890ceff"],"id":"id-202","last_modified":1789979978959,"schema":1789979674867}
