@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | mozilla::Variant<T>::~Variant | mozilla::MozPromise<T>::ResolveOrRejectValue::~ResolveOrRejectValue","hashes":["173ad0e4e3c34fefb9ca66a8b5f7749b8c4b6edf3dd8077dad0d13078a6477e9"],"id":"id-115","last_modified":1789979979665,"schema":1789979562890}
+{"description":"utility (Windows nightly): CreateRectRgn","hashes":["258fbe8a2e7558f93205eb1156c43082fef84c09faf8183f88c323f02be88be2"],"id":"id-115","last_modified":1790068225687,"schema":1790067756244}

@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::AutoClonedRangeArray::FirstRangeRef","hashes":["3e3ed1f44ba52a3341474b5af11906242b8679bc5e59bbddc67c821b3890ceff"],"id":"id-202","last_modified":1789979978959,"schema":1789979674867}
+{"description":"content (Mac nightly): mozilla::a11y::DocAccessible::ProcessContentInserted","hashes":["8e6e61f4fb103370de1f67eaecf4cb06062e87713d9770b3795d4c7142572296"],"id":"id-202","last_modified":1790068224746,"schema":1790067863532}
