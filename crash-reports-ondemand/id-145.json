@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): EnterJit","hashes":["ed48437bbf4abc6fd9adc244ac55b78e35ff84f9c06b7b46c2bb84c12fa13bfb","fbb98f814e4291c0215eca86946972afa5328edab621faf895d90510d8560716","ad7895180aa49ae927ff1e2b12b36ec47cc4a8e4679da4c2c3cf268c5ce75e40"],"id":"id-145","last_modified":1790240990215,"schema":1790240601643}
+{"description":"gpu (Mac nightly): mozilla::gl::GLContext::LockSurface","hashes":["664e94603dcedb94c435b4b883b8183dac838bf5e4183397da06bd0fce7b201c"],"id":"id-145","last_modified":1790327983727,"schema":1790327592358}
