@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["a5e586acd1e01e0f7ea79762a6a5225f8ad223e5ab5bbb0b0c3cdcec9fdbf304","5762e341b895dfa6068f39ab3ed5b099d67e9518dc823782e351932efd564fb3"],"id":"id-378","last_modified":1790240988711,"schema":1790240894691}
+{"description":"gpu (Mac nightly): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["b8706a8442d8839ba44a926650c4a0e4e3cdacc8823838211271d35a43ac0728"],"id":"id-378","last_modified":1790327980327,"schema":1790327882291}

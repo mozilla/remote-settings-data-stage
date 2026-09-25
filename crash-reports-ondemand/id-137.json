@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): EnterBaseline","hashes":["0527e6ce0e1266467abe0000a2311044593366b4a3e1645c543b1815eca6ca3d"],"id":"id-137","last_modified":1790240988945,"schema":1790240591580}
+{"description":"socket (Windows beta): nss_InitializePRErrorTableOnce | PR_CallOnce | NSS_InitializePRErrorTable | nss_InitModules | nss_Init | NSS_NoDB_Init | EnsureNSSInitializedChromeOrContent","hashes":["59b6cbcde7257860ac600e7c6ffc5543ef9b83c84932064ac6b3d66dd08a59cf"],"id":"id-137","last_modified":1790327980698,"schema":1790327582855}
