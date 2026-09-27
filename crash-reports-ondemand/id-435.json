@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::RemoteImageHolder::~RemoteImageHolder","hashes":["35190fbfd9e93a36e5b92e0c9cc2f4b2b8f6c385f2076bca1b69c313b5d361cd"],"id":"id-435","last_modified":1790413177631,"schema":1790413149840}
+{"description":"main (Mac beta): AsyncShutdownTimeout | Places Connection shutdown | PlacesUtils read-only connection closing as part of Places shutdown","hashes":["ab0ff7effb6b6ea8b5fe24706ca2f4974888fb545979337e33af7681feb1f24b"],"id":"id-435","last_modified":1790499583772,"schema":1790499554933}

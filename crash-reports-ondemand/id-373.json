@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["5762e341b895dfa6068f39ab3ed5b099d67e9518dc823782e351932efd564fb3","a5e586acd1e01e0f7ea79762a6a5225f8ad223e5ab5bbb0b0c3cdcec9fdbf304"],"id":"id-373","last_modified":1790413178061,"schema":1790413073153}
+{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["7a409cf046aff2555f36b6d7f3c937ba3f51f3114f16fc17e2a02816be6871f4"],"id":"id-373","last_modified":1790499584510,"schema":1790499477008}
