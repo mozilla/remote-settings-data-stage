@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): firefox-nightly-bin","hashes":["36bba9cf63ec8eaae999216670b2fc06391c3387b1d4353492941eec965c6f2a"],"id":"id-227","last_modified":1790499584083,"schema":1790499292653}
+{"description":"main (Mac beta): AsyncShutdownTimeout | Places Connection shutdown | PlacesUtils read-only connection closing as part of Places shutdown","hashes":["ab0ff7effb6b6ea8b5fe24706ca2f4974888fb545979337e33af7681feb1f24b"],"id":"id-227","last_modified":1790586615967,"schema":1790586310134}
