@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::dom::syncedcontext::Transaction<T>::Commit | mozilla::dom::CanonicalBrowsingContext::ReplacedBy","hashes":["445acdefd98f26dc8a45cebf7cc8ec96c6e8baed6748abd303dbc54fbf0a68a2","b75af63f2ec327c9e7913ac57953e02abbaa3d9a0ef4cbfe404b6e8061258fb3"],"id":"id-302","last_modified":1790586616937,"schema":1790586407860}
+{"description":"gpu (Mac beta): abort | AMDRadeonX4000GLDriver","hashes":["73c408b70f4a1525de9c110da992a949f0e1200b7d61731b99a3dcc727b0687b"],"id":"id-302","last_modified":1790673594392,"schema":1790673399682}
