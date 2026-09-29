@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): gdi32.dll","hashes":["4412048b9592a6ccc9ccf06c17eee9e7725b96d4972444924563f369d845d6f6"],"id":"id-365","last_modified":1790586613115,"schema":1790586487673}
+{"description":"gpu (Mac nightly): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["b8706a8442d8839ba44a926650c4a0e4e3cdacc8823838211271d35a43ac0728"],"id":"id-365","last_modified":1790673592425,"schema":1790673475289}

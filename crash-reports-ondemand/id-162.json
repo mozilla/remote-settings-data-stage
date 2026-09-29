@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): _sigtramp","hashes":["6f9cb29173e5d477396299995d9ed1e0bd2c2775c6ecb8656c23eb3513102d8a"],"id":"id-162","last_modified":1790586613468,"schema":1790586226232}
+{"description":"socket (Mac release): sigslot::_signal_base<T>::~_signal_base","hashes":["d6cff7c18ac28dd80edeb6da11fc7527b26ce69cff9c50f517f89926f844cb53"],"id":"id-162","last_modified":1790673592582,"schema":1790673227249}

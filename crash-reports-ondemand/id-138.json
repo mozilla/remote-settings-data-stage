@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): pthread_kill | abort | IOGPUMetalCommandBufferStorageAllocResourceAtIndex","hashes":["32ca472dadda82678918b47763bf992cdc64aab2a909161ad242a896a9a6c05a"],"id":"id-138","last_modified":1790586613812,"schema":1790586195657}
+{"description":"gpu (Mac beta): wgpu_server_buffer_get_mapped_range","hashes":["837b1513481c5d6f14aae9c9ca9e53db4490cbced59dd356525b580894bdebf2"],"id":"id-138","last_modified":1790673592751,"schema":1790673198296}
