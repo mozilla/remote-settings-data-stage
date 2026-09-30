@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsBlockFrame::IntrinsicISize","hashes":["6cdb66c1c93116bba016d322425daedc8fc8bd08c9526f5b8b8cb0c4bedeb4a8","d9ef3d8c020c8d92ccf4f1d32cbba80fa1bfedf0ad4dd701ae54b304ed9f7f37"],"id":"id-359","last_modified":1790673594167,"schema":1790673468067}
+{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["ad621f4ea00fc9e1a580d51ed54b0e3a5b26b0872afd22195ac9ec83cbb4bb0a"],"id":"id-359","last_modified":1790760575825,"schema":1790760451282}
