@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::non_crypto::XorShift128PlusRNG::next","hashes":["0e31f1a79017c54f4a0c91d069ed2627da8a68d193d3b5cec3f60ca8a23e2272"],"id":"id-072","last_modified":1790928573430,"schema":1790928105059}
+{"description":"gpu (Android nightly): libc.so | <.plt ELF section in libxul.so> | libnativebridge_lazy.so","hashes":["8a80093718c60bef9a1ca6c69682499871876440d4e4735fbc35953605d0eef7"],"id":"id-072","last_modified":1791017362249,"schema":1791016901258}
