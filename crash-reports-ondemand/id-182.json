@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::ReadableStreamCancel","hashes":["8a6604b97c57f3ec5574fc241fa5ce1560c66bb1b03a7511813753a694e153c1"],"id":"id-182","last_modified":1791017361869,"schema":1791017035279}
+{"description":"content (Mac nightly): CrashChannel::OpenContentStream","hashes":["a9bf5f8696a620a5946ba51e37ab0a6abf9d28d941fa270e676a50c8f5eb7ddb"],"id":"id-182","last_modified":1791102579742,"schema":1791102246115}
