@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): _dlerror_run","hashes":["70eca63ddd1e2a15bc7387bc3034c364549be1d80c5982dd3fec6463c0321819"],"id":"id-066","last_modified":1791017361117,"schema":1791016894171}
+{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["7d45ca7e00d80b72d64db1af1b40cbbb2d076e0eb412bb45dc88e41a5457b188"],"id":"id-066","last_modified":1791102578881,"schema":1791102095188}

@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["f7bb5335e6ce3cef8e49c50ef08c62cda38ef8dbe5e4011679abd064b70e8288"],"id":"id-275","last_modified":1791017361280,"schema":1791017148108}
+{"description":"content (Linux nightly): JS::shadow::Shape::isProxy","hashes":["be2a08ca85f7bc1562ab1b18ed77dcfbb13a0840525fd61090ce76a3fd167e92"],"id":"id-275","last_modified":1791102579110,"schema":1791102360213}
