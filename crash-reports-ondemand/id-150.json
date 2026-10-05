@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): webrender::visibility::update_prim_visibility","hashes":["4ccea80e78447bf93a887411cde14c33c4205ffc6af0545a7a8deacc19a7248c","2afb005727fc642d27cc874456faee8ef95e4b542a3be0205796db4c9a9139d8"],"id":"id-150","last_modified":1791102580344,"schema":1791102203742}
+{"description":"gpu (Android nightly): mozilla::gl::GLContext::fGetIntegerv","hashes":["9cb413b3b404f247e43e73d898c93f732ff9b5cdfc309074429f1884d6381c9f"],"id":"id-150","last_modified":1791190792814,"schema":1791190399667}
