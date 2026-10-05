@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLContext::fGetIntegerv","hashes":["9cb413b3b404f247e43e73d898c93f732ff9b5cdfc309074429f1884d6381c9f"],"id":"id-195","last_modified":1791102578199,"schema":1791102262060}
+{"description":"utility (Windows beta): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["c9d5a8032b2f1fbe3e3abef77276479119c758551c5d138dc271e2e7a3fd94d2"],"id":"id-195","last_modified":1791190790717,"schema":1791190455024}
