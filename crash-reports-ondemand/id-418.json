@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlReportFatalFailure","hashes":["51d635285e34690ebe0e707be24b08b43086972b5fa3f8b880c22b6a49a9b3ac","f288acc745d31039c0c4f0e6d9f203d994fe5985552d7ec85b7e427eec2429cc"],"id":"id-418","last_modified":1791190792068,"schema":1791190735851}
+{"description":"utility (Windows nightly): NtSignalAndWaitForSingleObject","hashes":["819ae7132d29d87b2ddcee6b2e1b482726e2c7719bb3daa6694bd6d399d90b8b"],"id":"id-418","last_modified":1791278984643,"schema":1791278931765}
