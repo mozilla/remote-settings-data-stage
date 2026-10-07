@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["7d45ca7e00d80b72d64db1af1b40cbbb2d076e0eb412bb45dc88e41a5457b188"],"id":"id-061","last_modified":1791278983286,"schema":1791278483157}
+{"description":"gpu (Mac nightly): IPCError-content | GPUProcessKill","hashes":["71ad8f82c398b7f8328c2b443163766aaa750ed9201a6dd41e7d8558b4fc3e0c","d2ad163331f46f983a2d56c122f19c80c8fae0fe824ea69de2967237d8015cd6"],"id":"id-061","last_modified":1791366011093,"schema":1791365500601}

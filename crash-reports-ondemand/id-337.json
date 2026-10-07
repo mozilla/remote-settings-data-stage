@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libIMGegl.so","hashes":["f75a729f0e1caffa982e0b58075e5368a84811037bc6e9493d7366dc9613499d","30cbad468e587978cf8405cd02097a7ed4d029597cd833d436d8ad72eb74d7bf","abc9f4465b332db30924e052e0f7e59acfc943ec46eccf23543b9c67ce3d7a80"],"id":"id-337","last_modified":1791278983553,"schema":1791278830662}
+{"description":"utility (Windows nightly): mozilla::dom::WindowGlobalParent::~WindowGlobalParent","hashes":["46bd207485c43cf57ad233bb696bb43b2480e22e3ae97036be98e3d886105819"],"id":"id-337","last_modified":1791366011336,"schema":1791365854293}
