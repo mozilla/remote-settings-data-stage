@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::Cell::storeBuffer","hashes":["8e16188b0c6a4a4489b215299d711e80965ef5deeaffac89e00ea9a68dfeae13"],"id":"id-241","last_modified":1791366011858,"schema":1791365731330}
+{"description":"gpu (Mac beta): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["8f88b1bea33701b175e6ecb3cf7be5c2d0db110c9e718c0d11d242507661af0b"],"id":"id-241","last_modified":1791536982803,"schema":1791536711195}
