@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libIMGegl.so","hashes":["0c77c0b651f32fb628da59dbc05fffe41cd326da9dec4705529baaa0fcba61ea","44c51ca2d68a816b6b411bc025d21a41e891dc77d7108bfc2716760e4187ebb4"],"id":"id-340","last_modified":1791536982522,"schema":1791536835630}
+{"description":"gpu (Android nightly): libc.so | libmedia_jni_utils.so","hashes":["8b8c700fbc9be4d0f10e239c76262d7ce84aa8a7ba63be7c8372d16aa2150bee"],"id":"id-340","last_modified":1791622762441,"schema":1791622620843}

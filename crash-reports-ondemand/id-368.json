@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["ab7603f4ccea3d1c994337085bb8c813fe3b070b89a7841b4b81985f2374d156","f3a084f1f25cc098f31377aa4edb72b6d263b0f3a7f98088116227d7c9b13ff6","2f336d940d8d2d09de1f9ca9dff6ac686dc54c48393b27f08780aa67bb518b17"],"id":"id-368","last_modified":1791536982291,"schema":1791536869255}
+{"description":"content (Mac nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["fe9b4195eb4dbedc790609c83cde2aff76581a741c2831a6693a117cd25d208f"],"id":"id-368","last_modified":1791622762178,"schema":1791622653687}

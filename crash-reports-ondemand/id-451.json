@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): ff_vp9_avg_8tap_regular_4h_8_avx512icl","hashes":["d6501cb67d72f628e2f5973a8f396946d762f5139e09397b30eb02ad985e46ac"],"id":"id-451","last_modified":1791536982040,"schema":1791536972347}
+{"description":"gpu (Android beta): <mozglue_static::panic_hook as core::ops::function::FnOnce<>>::call_once","hashes":["89d06db3bf5d5151947c9fc2c59361d05eaefc965da106fa409b825bebd02279","e54d06a30e3329cccc7d180e2f5c3c61ac9555095034cafdc0eb929e08f09094"],"id":"id-451","last_modified":1791622761915,"schema":1791622753484}

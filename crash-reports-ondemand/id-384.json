@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::SharedSubResourceCache<T>::LoadCompleted","hashes":["81f2c0a405858f7ec16b0b3a459046c55068ad986dc7e1b3f98b488608d407a4","ec76cb89995d13a27fe3b5b81fc28e14e07988a3e2940f638627dfb2e79386e9"],"id":"id-384","last_modified":1791536982391,"schema":1791536890915}
+{"description":"utility (Windows nightly): mozilla::dom::WindowGlobalParent::~WindowGlobalParent","hashes":["46bd207485c43cf57ad233bb696bb43b2480e22e3ae97036be98e3d886105819"],"id":"id-384","last_modified":1791622762330,"schema":1791622672607}
