@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["53fb18bef933161e7af3c161c4bfb0cf34f70e8b93f05575ca667c82cd507109"],"id":"id-116","last_modified":1791536984222,"schema":1791536557274}
+{"description":"content (Mac beta): JS::Value::isGCThing","hashes":["fcff2ab3f2ea4e44965b280ef2f9e48798ed477fe9e6a5694899fadff45c45df"],"id":"id-116","last_modified":1791622764043,"schema":1791622353370}
