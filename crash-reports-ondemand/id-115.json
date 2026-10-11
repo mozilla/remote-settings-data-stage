@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsCycleCollectingAutoRefCnt::get","hashes":["5480cb0d0b700e1211600ec9492cd34d7b7327809f5b601acebc1336d556fd3c"],"id":"id-115","last_modified":1791622762777,"schema":1791622349803}
+{"description":"socket (Windows beta): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["9b1f6f80294de6b24f1b8228ee94c536b80696cfe993968dc373773a7e204382"],"id":"id-115","last_modified":1791712752363,"schema":1791712345263}
