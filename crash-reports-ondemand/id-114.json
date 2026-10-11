@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): libgallium_dri.so","hashes":["267cdaa71dcbf5c13432cdc96e9cf857ac2a329cfc954fa6a3e3f7f1d4ae8706","f8e0a71fc09c05bac99708210b181e332efccabb841649ee93783eea402a8982"],"id":"id-114","last_modified":1791622763988,"schema":1791622348658}
+{"description":"utility (Windows nightly): ntdll.dll | KERNELBASE.dll | mozglue.dll | xul.dll | firefox.exe","hashes":["cdcf4b050d8698b9aba4429e1fa475a86d728e62bd1f8f440c3b03446ac6c303"],"id":"id-114","last_modified":1791712753778,"schema":1791712344116}

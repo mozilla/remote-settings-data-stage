@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::SharedSubResourceCache<T>::LoadCompleted","hashes":["81f2c0a405858f7ec16b0b3a459046c55068ad986dc7e1b3f98b488608d407a4"],"id":"id-427","last_modified":1791622764020,"schema":1791622725438}
+{"description":"utility (Mac release): mozilla::MozPromise<T>::ThenValueBase::DoResolveOrReject","hashes":["985e8f3d75227eec5bef5bf926308e21be7fca7b0d1bac6451ba68d0c57cc76e"],"id":"id-427","last_modified":1791712753815,"schema":1791712718698}
