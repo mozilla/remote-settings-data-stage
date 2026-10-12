@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): NtWaitForAlertByThreadId","hashes":["4eefefa81aea26774226f6072f6aa08c6c45d7d994da26d9a71e02f459fa8854"],"id":"id-414","last_modified":1791712753615,"schema":1791712703545}
+{"description":"socket (Windows beta): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["9b1f6f80294de6b24f1b8228ee94c536b80696cfe993968dc373773a7e204382"],"id":"id-414","last_modified":1791794421358,"schema":1791794359315}
