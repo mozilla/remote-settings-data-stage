@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::AllocSite::zone","hashes":["2ee95110d3b0d51ba19b4976b588f89bfbfaebc30aa77f410078904f79dbfa50","7b16f53abd6d7681fb450d1d4bb1af851bab760f1da684dec6516ce45f17b666"],"id":"id-218","last_modified":1791794420683,"schema":1791794102998}
+{"description":"content (Mac nightly): mozilla::ipc::PortLink::SendMessage","hashes":["fd1094c8e7e2d9d9941d2af6dc82f50a88ddfe117788376f666dd8d49dd1ab62","47faa353b3f71430aacb3d32c39b145948b9e8917c3e104a7ad4bdf3907573cf"],"id":"id-218","last_modified":1791882008302,"schema":1791881693289}
