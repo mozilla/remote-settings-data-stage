@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["115441e344089bf7bff65cc7baea7353f2bec10f0084ca1d146039ff2b829271"],"id":"id-366","last_modified":1791882006512,"schema":1791881887997}
+{"description":"content (Mac nightly): mozilla::SharedSubResourceCache<T>::LoadCompleted","hashes":["81f2c0a405858f7ec16b0b3a459046c55068ad986dc7e1b3f98b488608d407a4"],"id":"id-366","last_modified":1791969583882,"schema":1791969468241}
