@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): IPCError-content | ShutDownKill","hashes":["39c067a16acd31862e674fed1b042f5b57b3950d51bec1c8bdf504aecf8c9988","6a49a83bd4ed032d6b8d62f6f1a8648132818b1e7ad42c5635afc388f26410f3"],"id":"id-381","last_modified":1791882008742,"schema":1791881907683}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["b932f4eb33543445eadb6606c6da9a3d5d959245442f6375088fc4d8635ed974"],"id":"id-381","last_modified":1791969585527,"schema":1791969486703}

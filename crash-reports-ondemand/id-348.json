@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ntdll.dll | KERNELBASE.dll | mozglue.dll | xul.dll | firefox.exe","hashes":["661c64d9b2932a614bd897caab39d1d1e1f10c29de3e330e211d2ab0ef8d3763"],"id":"id-348","last_modified":1791882010039,"schema":1791881863301}
+{"description":"gpu (Android nightly): libc.so | libcodec2_client.so","hashes":["6a3e03d274b8b5fe701c653e7f18479390f64ca8ee82bcf9a381b8d97f445252"],"id":"id-348","last_modified":1791969586114,"schema":1791969446290}
