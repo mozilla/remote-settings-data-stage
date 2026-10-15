@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::TenuredCell::zoneFromAnyThread","hashes":["9f160b50df8c6c0e39ac9398c905ed8b7ef2282df072e0b47feae12675591217"],"id":"id-078","last_modified":1791969585518,"schema":1791969108013}
+{"description":"content (Mac nightly): js::jit::MNode::isDefinition","hashes":["9f8df8d5c61d1c62d4883444b8fc9b0a56a6f1f559c0a8c5c4135eece7e51bd2"],"id":"id-078","last_modified":1792053558795,"schema":1792053111151}

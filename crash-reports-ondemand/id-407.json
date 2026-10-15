@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): notify_monitor_file","hashes":["0ffc581e7858345c6eea8b9a2bc8514fb4cfff063cc2aee8d1bef4b1014045ad"],"id":"id-407","last_modified":1791969585197,"schema":1791969518183}
+{"description":"utility (Windows nightly): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["76160904cfb1077185dc96980ab7278f4a6e5b3a00876074e275de9dcc97e7fe"],"id":"id-407","last_modified":1792053558556,"schema":1792053507975}

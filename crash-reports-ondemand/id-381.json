@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["b932f4eb33543445eadb6606c6da9a3d5d959245442f6375088fc4d8635ed974"],"id":"id-381","last_modified":1791969585527,"schema":1791969486703}
+{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change | AddonManager: shutting down.","hashes":["2b947ee12de0069b73d9f2e3e0375856958f597d9318e13a3587f418896754b1","5abf91abb90b7f838cd0dcafec61f1b14dc032c1af1161781628f6c2478fe02c"],"id":"id-381","last_modified":1792053558881,"schema":1792053477190}
