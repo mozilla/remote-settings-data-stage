@@ -1,0 +1,1 @@
+{"feature":"browser-context","id":"browser-context--tab-conditional-fields--generic--v1","kind":"module","last_modified":1792080335551,"model":"generic","module":"tab-conditional-fields","prompts":"This is my active tab:\nURL: {url}\nPage title: {title}\n{#pageSlug}Page slug: {pageSlug}{/pageSlug}\nDescription: {description}\n","schema":1792076706257,"version":"1.0"}
