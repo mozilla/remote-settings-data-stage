@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::ipc::StructuredCloneData::WriteIPCParams","hashes":["fd51462355d356b4f3164746b41b58bebfc28a26249e9986e6057b1a7c7a4f86"],"id":"id-404","last_modified":1791969584190,"schema":1791969514607}
+{"description":"socket (Windows beta): @0x6000030","hashes":["0d74d90dd8179905835f28639b34760f6093167877e1d8f9df0c79909352976c"],"id":"id-404","last_modified":1792053557512,"schema":1792053504437}
