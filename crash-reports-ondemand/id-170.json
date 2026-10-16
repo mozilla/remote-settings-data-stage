@@ -1,1 +1,1 @@
-{"description":"content (Windows nightly): JS::Value::toPrivate","hashes":["0d126666446c340abc1bc554279348733bfe5bb3e3adddac8852d050f7d794a1","37a62ae2ec40ffbd6854a0e4d534814a1b1d9b1118f4d08a779c9804d74a5644"],"id":"id-170","last_modified":1792053558824,"schema":1792053223087}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["b932f4eb33543445eadb6606c6da9a3d5d959245442f6375088fc4d8635ed974"],"id":"id-170","last_modified":1792143593741,"schema":1792143233513}

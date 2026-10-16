@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JSScript::getAtom","hashes":["927d5c2cbbfabdbbb310d4bee8d032373c8097e56a1d9bb083b0189b1bb962e7"],"id":"id-299","last_modified":1792053559328,"schema":1792053377837}
+{"description":"socket (Linux release): mozilla::ipc::MessageChannel::OnMessageReceivedFromLink","hashes":["e0ce9e75d8c78882ad25efc4a5b6ad53e67d661bf7703be991cf9ed14aa7d8fe"],"id":"id-299","last_modified":1792143594527,"schema":1792143397193}
