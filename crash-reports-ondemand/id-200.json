@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::ipc::StructuredCloneData::WriteIPCParams","hashes":["fd51462355d356b4f3164746b41b58bebfc28a26249e9986e6057b1a7c7a4f86"],"id":"id-200","last_modified":1792053557926,"schema":1792053258346}
+{"description":"main (Mac nightly): mozilla::a11y::LocalAccessible::ContainerWidget","hashes":["25f6156c4d53313bd6e9d02844bacebfa80a330b8d15ca490321146872e263f0"],"id":"id-200","last_modified":1792143592749,"schema":1792143270085}

@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::Nursery::setDirectForwardingPointer","hashes":["a4857f59b342f2a13f98b7408abda258b13482dbfb826fa7a7a852d193490811"],"id":"id-194","last_modified":1792053557791,"schema":1792053251272}
+{"description":"content (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::ipc::StructuredCloneData::WriteIPCParams","hashes":["fd51462355d356b4f3164746b41b58bebfc28a26249e9986e6057b1a7c7a4f86"],"id":"id-194","last_modified":1792143592578,"schema":1792143262859}

@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["69c9ab3148f7f939e14959789bfcda9ded2a23872c9758ea0e5ab05812ebdcd0"],"id":"id-144","last_modified":1792053557674,"schema":1792053189775}
+{"description":"utility (Mac release): ScaleFactorDataParser::Deserialize","hashes":["d41f13cf7541ccd2e790f649a02f57b51ead703f1d4c310e8f9d0df360236172"],"id":"id-144","last_modified":1792143592501,"schema":1792143201578}

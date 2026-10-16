@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): mozilla::widget::WlLogHandler_UnknownObject","hashes":["58749535bc4bade2a79199a52a0c9f9d6e0ea9e4012442f436256f0c0f6daa7e","5fc90b0e60f938e3dafb9ff5f73d6f5d90e11174293d6954ab132ea80a2a62d3"],"id":"id-358","last_modified":1792053557463,"schema":1792053450241}
+{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["cc912ac84c81027b5a9301a8edf645d1ab3e8b89afd5a8af815bc7dacd93a24f"],"id":"id-358","last_modified":1792143592314,"schema":1792143472225}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESLayer_GPU_Control.so","hashes":["4e294f0d56ff062c715842daad416a45f3a98b2c12448807c416702abb312a81"],"id":"id-161","last_modified":1792053557946,"schema":1792053212643}
+{"description":"gpu (Android beta): libc.so | libsync.so","hashes":["f97921dc4e5f10c275beb813f5520cd70f0ad281e89e261488fcc669d8c0de2a"],"id":"id-161","last_modified":1792143592770,"schema":1792143222192}

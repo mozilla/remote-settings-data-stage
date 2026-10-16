@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): AsyncShutdownTimeout | profile-before-change | Sqlite.sys.mjs shutdown blocker","hashes":["fac66ef1e59bc60369cf70e9713e27e2dcfb3d8e98ac420d835f6c42ef843f14","f3b48dc5e41cde674727c804075f9038134d837d4285adef61c4fd5e37c127a5"],"id":"id-163","last_modified":1792053557953,"schema":1792053215002}
+{"description":"gpu (Android beta): mozilla::gl::GLContext::fGenerateMipmap","hashes":["ba125f75337bb5e7ee2acbfafa99b19584003c9b1625bde0d51f7f299464ad9a"],"id":"id-163","last_modified":1792143592778,"schema":1792143224628}
