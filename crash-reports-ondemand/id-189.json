@@ -1,1 +1,1 @@
-{"description":"main (Linux nightly): mozilla::widget::WlLogHandler","hashes":["91e04224d9dcd51d73a7f68d19688a13c676c95785d67f2243568278d85800ad","690a16ff236484a4c36fb49de34e59da9631d34555a92a85654827b5ce79f8e3"],"id":"id-189","last_modified":1792143593453,"schema":1792143256415}
+{"description":"gpu (Mac nightly): pthread_kill | abort | IOGPUMetalCommandBufferStorageAllocResourceAtIndex","hashes":["044ba825da7c2f56a3e8620e0201380a62373f959db50b499891100ca7040d06"],"id":"id-189","last_modified":1792226975164,"schema":1792226647620}
