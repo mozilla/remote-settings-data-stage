@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | nsDocShellLoadState::nsDocShellLoadState","hashes":["5bb9b90253bd2ce75167b02a245d3759b259fe03f1d6e116397e14a88c30e276"],"id":"id-205","last_modified":1792226974524,"schema":1792226667618}
+{"description":"content (Mac nightly): nsIFrame::IsLetterFrame","hashes":["41a6c1eccc13c628dfbc04577c24eef7a96c17b6ba6f82e3d52c229ee6766ad0"],"id":"id-205","last_modified":1792312783173,"schema":1792312472280}
