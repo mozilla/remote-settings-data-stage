@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["db9379f97dc5efa74858f26f523f82a44bf7008f1155bd6549b9f85363d2fdba"],"id":"id-209","last_modified":1792312782517,"schema":1792312477104}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["bdc6020966f6f8d199ad89bcd8e7aa3506d2d969aa9e37c6fcf4ee1380f7bbd9"],"id":"id-209","last_modified":1792400021208,"schema":1792399553613}

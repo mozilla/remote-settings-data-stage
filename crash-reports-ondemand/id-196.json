@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): mozilla::InstallSyscallFilter","hashes":["c9849c0a56aa91bffa649d501a83491dd87839d6282f6c804907626540a0b5eb","7c40ec375c79a580904de0c41dddb230c67648a673e753733fe7d91f3ccb99ee"],"id":"id-196","last_modified":1792312782974,"schema":1792312461384}
+{"description":"socket (Windows beta): mozilla::net::PollableEvent::Signal","hashes":["0c6137b45425ce9522921bd7582c480c31767c4feda7c14c2901329e98160d8a"],"id":"id-196","last_modified":1792400021785,"schema":1792399524024}
