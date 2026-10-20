@@ -3,3 +3,5 @@
 1791363851025	avarro-android-rollout
 1791539261518	cmuntean-this-is-an-experiment-use-for-excludeinclude
 1791539561419	cmuntean-test-the-exclude-users-for-first-run-rollout
+1792501764987	ppop-rsv2desktop
+1792501768583	ppop-rsv2android2
