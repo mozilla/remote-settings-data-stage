@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): <unknown in firefox.pdb>","hashes":["8cfa9382085e939e17385ded5ffa7d60377d49feb44afd0531cd44c1ac163a3f"],"id":"id-385","last_modified":1792400021001,"schema":1792399905906}
+{"description":"content (Linux nightly): nsTArray_Impl<T>::IndexOf<T> | mozilla::FrameProperties::RemoveInternal","hashes":["873c4672ab887bceca7c299defed1d39ca234f18f95031b6e6b7590bc9757adf","cedfe25d35adc34a92fb7a642e066964b24a6757539de9f0db29224aca97e5a0"],"id":"id-385","last_modified":1792498481169,"schema":1792498355688}
