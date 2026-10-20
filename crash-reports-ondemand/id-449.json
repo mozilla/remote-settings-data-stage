@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): AppleIntelKBLGraphicsVADriver","hashes":["94cc7cbeef690a685cd70f019a8bf8d2844cab8dc1c14b912234e18cbf56d6a3","dc24a25d6a8c634656dbb10552ba0b3e2292bf9794519d9a608af4f6aa069662"],"id":"id-449","last_modified":1792400022887,"schema":1792400016023}
+{"description":"gpu (Android beta): <mozglue_static::panic_hook as core::ops::function::FnOnce<>>::call_once","hashes":["c98f984ba8a4dc990e1791d609c099d120672691add213b9bed9705d6e006f08"],"id":"id-449","last_modified":1792498482609,"schema":1792498476179}
