@@ -6,3 +6,4 @@
 1792501764987	ppop-rsv2desktop
 1792501768583	ppop-rsv2android2
 1792582828858	avarro-rsv2ios-experiment
+1792584947668	default-new-users-to-launch-firefox-when-windo-stage-clone
