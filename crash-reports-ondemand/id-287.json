@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::ClearProps","hashes":["7a380fa42b4d69b3c9bcc47df51e9f8f63fe9819fbbcdf59c4f6a9d51835bad2"],"id":"id-287","last_modified":1792498482056,"schema":1792498163444}
+{"description":"utility (Mac release): objc_msgSend | _cow_mutate_slow","hashes":["cb51a7d04f5d550be6ffd4f97d95e0985cd57a58ddd0fd4493d349e4f38a83bc"],"id":"id-287","last_modified":1792574382869,"schema":1792574171601}
