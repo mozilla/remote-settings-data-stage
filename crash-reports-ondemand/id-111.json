@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): <unknown in ole32.pdb>","hashes":["f6b4f6134a6f3a021a901f564e5a3bec819f2fe38407c711e19f7610149ca8d0"],"id":"id-111","last_modified":1792498482669,"schema":1792497830673}
+{"description":"utility (Windows nightly): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["1a1852dfdaeac098f42b1dfa3e03b1f3200356f5d3c50ba49d1dab91f863a228"],"id":"id-111","last_modified":1792574383426,"schema":1792573949422}

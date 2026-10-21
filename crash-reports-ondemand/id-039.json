@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libsrv_um.so","hashes":["0b6d4cb9d8bd24397274ce7c329601b4dd1c1711303b92514f335d08f35aa03b","d1ddb9db5e3929a45a9f8bc58804be5b9d8813586b9cc31079c4de74f14dbcd6"],"id":"id-039","last_modified":1792498483361,"schema":1792497694181}
+{"description":"gpu (Android beta): libc.so | libart.so | boot.oat","hashes":["998e7e928866c4a072e2d49168f1fe5c846eb275fee24f5838d13121c4cb9493"],"id":"id-039","last_modified":1792574384201,"schema":1792573857892}

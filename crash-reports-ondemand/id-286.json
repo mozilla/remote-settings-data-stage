@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::HeaderWord::getAtomic","hashes":["cd3fabb2f7fb4bc13095ff864046adef2325a3e0bd59dfb321858a7e0c8a0ff2","590108323e971cd23e7d011ac7b125febc725dc13f0d966f8bb1f6fbb54b6932","2d63b288fec7f72d046a869228acea35c130f53c4faa2446b235736bd0e0917a"],"id":"id-286","last_modified":1792498483499,"schema":1792498162240}
+{"description":"content (Mac nightly): nsIFrame::GetPrevSibling","hashes":["f5d6b753686e43ef037c00c1d553e0c1abec470a3b64a5f1d0e17c033ef696d0"],"id":"id-286","last_modified":1792574384229,"schema":1792574170387}
