@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::AppleATDecoder::GetInputAudioDescription","hashes":["d2ea2bf4b4f502dc98c2e53e1702b33294ebb5b131c18424b05fac017ee4d50b"],"id":"id-244","last_modified":1792574382079,"schema":1792574115505}
+{"description":"gpu (Mac nightly): __cxxabiv1::failed_throw | objc_exception_throw | -[NSObject doesNotRecognizeSelector:] | ___forwarding___ | __forwarding_prep_0___ | rx::mtl::CreateShaderLibrary","hashes":["4fa984eb0e59a985f076cc30b437e2a7f86a66455a2070b67246713278e4c7fd"],"id":"id-244","last_modified":1792660785453,"schema":1792660517403}
