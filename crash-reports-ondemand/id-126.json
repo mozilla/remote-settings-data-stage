@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): nsIEventTarget::IsOnCurrentThread","hashes":["0a9614aada517eb67d0c41bd865d7ffc3aadcd18c672f1c02deadba8491fd25c"],"id":"id-126","last_modified":1792660787490,"schema":1792660370424}
+{"description":"socket (Mac release): mozilla::net::SocketProcessChild::SocketProcessChild","hashes":["5e1528bd9b95d69b4a241d8e51b5bab54a14fcd7ec1a343164309e69c6e53fab"],"id":"id-126","last_modified":1792747194469,"schema":1792746773914}

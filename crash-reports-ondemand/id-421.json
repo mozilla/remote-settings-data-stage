@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::InputToReadableStreamAlgorithms::PullCallbackImpl","hashes":["c0321a0544a058334da7e66daa48b5f7c033b08f6be6e585fb48804b4e618b7e"],"id":"id-421","last_modified":1792660787314,"schema":1792660738879}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["c1dc8d060d1a4af47c703506754ae72538ff80d7b715ad3467a8fbdcf06e70a0"],"id":"id-421","last_modified":1792747194291,"schema":1792747144727}
