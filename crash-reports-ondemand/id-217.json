@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): libsystem_kernel.dylib","hashes":["f6eb8109296a50b3f7e9e3d10471931bd22c9057942f85a367e275515ab27dc7"],"id":"id-217","last_modified":1792918213572,"schema":1792917885369}
+{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["dfb21f596f9b8ba4ffba3934c0d614bf8c74e9b02acf2cabcd57fbb26900d0ea"],"id":"id-217","last_modified":1793004633423,"schema":1793004300806}

@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["a1a7b9cd0b3af719ff7b9b0a0026dc5c49b8b6cb953705c31cb6861d20450f04"],"id":"id-459","last_modified":1792918213162,"schema":1792918193746}
+{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["ef1e77518e5768568bbff7385577d56bc7613b651bf56ceb7394073ce3c7d007"],"id":"id-459","last_modified":1793004632879,"schema":1793004615947}
