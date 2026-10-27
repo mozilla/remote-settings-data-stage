@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["440e542752343ca9559bc491f87b21622913ab3f3053b35afb9aaae481ac048c"],"id":"id-447","last_modified":1793004633650,"schema":1793004599576}
+{"description":"gpu (Mac nightly): webrender::scene_building::SceneBuilder::wrap_prim_with_filters","hashes":["d4e3e4f041b79a40f14bd08333a831ae29c1258de7ba629ee754c360490eb591"],"id":"id-447","last_modified":1793091618935,"schema":1793091590483}
