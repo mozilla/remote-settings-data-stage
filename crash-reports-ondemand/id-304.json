@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): mozilla::dom::PContentChild::SendFirstIdle","hashes":["312c54b9f90912a3395b4ab705d0ad54707f86e802e08eac2711d581d5534721","e2f9e56267a842301b4c10d1e276a68280f31eb9eecf07616220f8d7b9a4b046"],"id":"id-304","last_modified":1793004635653,"schema":1793004415119}
+{"description":"socket (Mac release): mozilla::ipc::MessageChannel::MessageTask::Post","hashes":["e96431d6f7b33970d61e5a7aa0db62c37d1df5bb80e952e0db94a2e44b060ac0"],"id":"id-304","last_modified":1793091620213,"schema":1793091407100}
