@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libnvidia-glsi.so.615.71.10","hashes":["7e13b172e191d590dd4590c4aaa855c6d73272353be130e31d1d9017281cd0c1"],"id":"id-056","last_modified":1793091618840,"schema":1793091088763}
+{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["dfb21f596f9b8ba4ffba3934c0d614bf8c74e9b02acf2cabcd57fbb26900d0ea"],"id":"id-056","last_modified":1793178080041,"schema":1793177479230}

@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsTArray_Impl<T>::IndexOf<T> | mozilla::FrameProperties::RemoveInternal","hashes":["75561b0453c5fd22282dfdfe1c14550578362d26b9b64b9b1b401a148a6b0501"],"id":"id-302","last_modified":1793091618091,"schema":1793091404650}
+{"description":"content (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["d31911b9f0219b78efd3d5b6554d54f018274bcef80acae68b10dd42fa5353cf"],"id":"id-302","last_modified":1793178079195,"schema":1793177815877}

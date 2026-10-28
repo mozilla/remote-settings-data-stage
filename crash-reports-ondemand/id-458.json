@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x52d0030","hashes":["f2f6e2aa3b510d7f4fc97556bcee716f0da94ce0c9c01015e9b4942068cb2862"],"id":"id-458","last_modified":1793091618504,"schema":1793091604352}
+{"description":"socket (Mac release): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["c59839cd2806fca03635ab3808555b865dab4a4a5fd03aeccbe5a7f0d12f4b2b"],"id":"id-458","last_modified":1793178079642,"schema":1793178064382}

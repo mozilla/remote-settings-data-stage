@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::layers::AndroidHardwareBuffer::DeserializeFromFileDescriptor","hashes":["c51b95fb5c2d8274486fd175d687c68abc41631a874097bba2909bdfaec8cdfe"],"id":"id-409","last_modified":1793091618320,"schema":1793091540269}
+{"description":"gpu (Mac beta): gldWaitForObject | gldUpdateDispatch","hashes":["b0583f5c90da73fa016a49a8b9137dfe6b18fd46b3a9cf2de1c7d90c697498df"],"id":"id-409","last_modified":1793178079448,"schema":1793177974988}
