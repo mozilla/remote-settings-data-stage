@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["2aadb8437314f45ee850a5fcd98ae5b8530ce0b47508d3407c2e667eebbf07c1"],"id":"id-394","last_modified":1793091619458,"schema":1793091521371}
+{"description":"socket (Windows beta): @0x57d0030","hashes":["0b64c4e96e4f755388597146688700bb571ae08a67ae21ef29660d80bb7b23ca"],"id":"id-394","last_modified":1793178080928,"schema":1793177951268}

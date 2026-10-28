@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::Vector<T>::initCapacity | mozilla::Vector<T>::initLengthUninitialized | mozilla::ipc::NodeController::DeserializeEventMessage","hashes":["e5a668f00316aa10a73bae078e296ddfeb23556d3b14789c68fee0c39b8a91ab"],"id":"id-269","last_modified":1793091619940,"schema":1793091363471}
+{"description":"content (Linux nightly): mozilla::FrameProperties::PropertyValue::DestroyValueFor","hashes":["4503566b6cf315ec05025707dc38d4b918331d7dc919d82c9e452bd55f8a36c4"],"id":"id-269","last_modified":1793178081607,"schema":1793177763467}
