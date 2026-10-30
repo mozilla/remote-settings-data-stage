@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["a1c7322c80a2f0c8d63ed8c002204641984eaf9eff385ab7203be8880c4915d0"],"id":"id-060","last_modified":1793178079488,"schema":1793177484551}
+{"description":"content (Windows nightly): xul.dll","hashes":["7092e1d7ae75fb393283338f8da42131ba104dc03687934e0d27d07796e733c2","ca63b46cfaa4e27c40ff5a9457102be7c64850b2674cf1ca28c4dae15e3651bf","512e9c789af8468606a04e58ccc23780b5b06180603a0943742f177f00ba90cd"],"id":"id-060","last_modified":1793349593905,"schema":1793349089067}

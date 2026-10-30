@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | liblog.so","hashes":["57647c6658dc89e38c482619fade429bbc7ed55089a64f12ebc50493acddca64"],"id":"id-364","last_modified":1793178079385,"schema":1793177907638}
+{"description":"main (Mac nightly): AsyncShutdownTimeout | quit-application | Extension startup: extension@tabliss.io,XPIProvider shutdown","hashes":["0291ef45c380c8ffc36540ffdf8c101062955cd4833e54e889a137ede46bed1a"],"id":"id-364","last_modified":1793349593821,"schema":1793349472485}

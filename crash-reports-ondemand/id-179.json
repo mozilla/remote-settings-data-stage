@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): -[NSAppearance dealloc]","hashes":["d5446b56f18146548d7865d7a597b216e62e88cc3423d5ba8d17dc7ea547a9f3"],"id":"id-179","last_modified":1793178080185,"schema":1793177640859}
+{"description":"socket (Mac release): mozilla::Vector<T>::initCapacity | mozilla::Vector<T>::initLengthUninitialized | mozilla::ipc::NodeController::DeserializeEventMessage","hashes":["e5a668f00316aa10a73bae078e296ddfeb23556d3b14789c68fee0c39b8a91ab"],"id":"id-179","last_modified":1793349594472,"schema":1793349239776}
