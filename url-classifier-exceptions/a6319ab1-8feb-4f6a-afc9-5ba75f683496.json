@@ -1,0 +1,1 @@
+{"bugIds":["2084573"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a6319ab1-8feb-4f6a-afc9-5ba75f683496","last_modified":1793326217440,"schema":1793326211637,"topLevelUrlPattern":"*://www.e-rewards.com/*","urlPattern":"*://darwin-assets.dynata.com/*"}

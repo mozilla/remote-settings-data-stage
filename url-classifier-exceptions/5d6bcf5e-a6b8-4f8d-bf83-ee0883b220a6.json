@@ -1,0 +1,1 @@
+{"bugIds":["2022215"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5d6bcf5e-a6b8-4f8d-bf83-ee0883b220a6","last_modified":1793326217643,"schema":1793326216885,"topLevelUrlPattern":"*://www.hotelriversidealfama.com/*","urlPattern":"*://s7.addthis.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2068099"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e06a034c-99ef-4157-90ee-59617784df25","last_modified":1793326217810,"schema":1793326215933,"topLevelUrlPattern":"*://auth.kompas.id/*","urlPattern":"*://connect.facebook.net/*"}

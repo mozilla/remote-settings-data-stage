@@ -1,0 +1,1 @@
+{"bugIds":["2080780"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1dc97cd4-c4cf-43ca-a30c-2f564e529b82","last_modified":1793326217649,"schema":1793326213880,"topLevelUrlPattern":"*://www.boroughfurnace.com/*","urlPattern":"*://*.editmysite.com/*"}

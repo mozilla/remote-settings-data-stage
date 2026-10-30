@@ -1,0 +1,1 @@
+{"bugIds":["2084632"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"682f3134-6929-453c-a042-bcb6370a51a0","last_modified":1793326217543,"schema":1793326211327,"topLevelUrlPattern":"*://www.airmusictech.com/*","urlPattern":"*://geoip-js.com/*"}

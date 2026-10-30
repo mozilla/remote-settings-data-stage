@@ -1,0 +1,1 @@
+{"bugIds":["2079248"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3890ea1f-a6b2-4fed-b216-e6a167f17522","last_modified":1793326217715,"schema":1793326214526,"topLevelUrlPattern":"*://www.dendevine.com.au/*","urlPattern":"*://*.editmysite.com/*"}

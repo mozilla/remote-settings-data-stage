@@ -1,0 +1,1 @@
+{"bugIds":["2078182"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"94d3091e-ba13-4d84-993d-d7e541b07b14","last_modified":1793326217586,"schema":1793326214894,"topLevelUrlPattern":"*://www.qc.pizza/*","urlPattern":"*://*.editmysite.com/*"}

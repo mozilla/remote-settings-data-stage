@@ -1,0 +1,1 @@
+{"bugIds":["2081310"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"55beb87a-200a-490a-bf4a-7d95d0de8326","last_modified":1793326217572,"schema":1793326213749,"topLevelUrlPattern":"*://www.mainelynoods.com/*","urlPattern":"*://*.editmysite.com/*"}

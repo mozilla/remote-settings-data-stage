@@ -1,0 +1,1 @@
+{"bugIds":["2082929"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6f57a078-36f7-4050-b37f-0e3e9fcccedc","last_modified":1793326217494,"schema":1793326212917,"topLevelUrlPattern":"*://www.duanjubaike.net/*","urlPattern":"*://gimg0.baidu.com/*"}

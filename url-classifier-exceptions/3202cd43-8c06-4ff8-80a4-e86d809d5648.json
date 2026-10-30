@@ -1,0 +1,1 @@
+{"bugIds":["2077055"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3202cd43-8c06-4ff8-80a4-e86d809d5648","last_modified":1793326217446,"schema":1793326215426,"topLevelUrlPattern":"*://daytimepickup.square.site/*","urlPattern":"*://*.editmysite.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2079619"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"13d05ae9-0ffd-4f3d-afbf-e528021568a0","last_modified":1793326217741,"schema":1793326214397,"topLevelUrlPattern":"*://parts.hp.com/*","urlPattern":"*://akamai.tiqcdn.com/*"}

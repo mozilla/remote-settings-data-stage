@@ -1,0 +1,1 @@
+{"bugIds":["2058935"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"674de7bd-1e9a-4887-83a4-b3bd7c4b4a01","last_modified":1793326217733,"schema":1793326216343,"topLevelUrlPattern":"*://www.laposte.fr/*","urlPattern":"*://cdn.tagcommander.com/*"}

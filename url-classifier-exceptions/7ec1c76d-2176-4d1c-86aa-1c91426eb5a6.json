@@ -1,0 +1,1 @@
+{"bugIds":["2084063"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7ec1c76d-2176-4d1c-86aa-1c91426eb5a6","last_modified":1793326217522,"schema":1793326212056,"topLevelUrlPattern":"*://www.bodegafilmlab.com/*","urlPattern":"*://*.editmysite.com/*"}

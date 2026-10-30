@@ -1,0 +1,1 @@
+{"bugIds":["2058509"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"33f124a3-f6d4-452f-bff2-ce8c991b7cf1","last_modified":1793326217755,"schema":1793326216607,"topLevelUrlPattern":"*://balance.vanillagift.com/*","urlPattern":"*://geoip-js.com/*"}

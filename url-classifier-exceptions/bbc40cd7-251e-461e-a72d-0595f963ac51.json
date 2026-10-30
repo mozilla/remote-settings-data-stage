@@ -1,0 +1,1 @@
+{"bugIds":["2086519"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"bbc40cd7-251e-461e-a72d-0595f963ac51","last_modified":1793326217487,"schema":1793326210448,"topLevelUrlPattern":"*://www.ilomindbody.com/*","urlPattern":"*://*.editmysite.com/*"}

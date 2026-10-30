@@ -1,0 +1,1 @@
+{"bugIds":["2056184"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0e187ece-a7d7-41fd-969d-5b41507ced56","last_modified":1793326217792,"schema":1793326216742,"topLevelUrlPattern":"*://memoryzone.com.vn/*","urlPattern":"*://bizweb.dktcdn.net/*"}
