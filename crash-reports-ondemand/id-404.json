@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): AsyncShutdownTimeout | profile-before-change | Sqlite.sys.mjs shutdown blocker","hashes":["0cf0a857006bb7544f03c23079ca158be3ec0a22e01467079775251a44102e45"],"id":"id-404","last_modified":1793178081098,"schema":1793177966736}
+{"description":"main (Mac beta): AsyncShutdownTimeout | Places Clients shutdown | SyncedBookmarksMirror: finalize","hashes":["0b402f22d79154f6077b1ca01678b728cf22d32d91dccd8ea943f8d5896da9d2"],"id":"id-404","last_modified":1793349595292,"schema":1793349521705}
