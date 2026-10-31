@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["dfb21f596f9b8ba4ffba3934c0d614bf8c74e9b02acf2cabcd57fbb26900d0ea"],"id":"id-380","last_modified":1793349594277,"schema":1793349492190}
+{"description":"content (Android nightly): IPCError-content | ShutDownKill","hashes":["4ed21d7c95c3b1b78c334e8eab6980a27f8e18d9d756e95a9d3f347fe6d43ed1","99ce2b51bd3831c56544ca786211c5a346a38dacbfb8ae205b29026bbd093dfa"],"id":"id-380","last_modified":1793436567353,"schema":1793436488019}
