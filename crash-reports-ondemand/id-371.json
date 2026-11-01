@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): edrpm64.dll | <unknown in combase.pdb>","hashes":["a80cfd7ee9ac0f7f535f5c64e052902d54a0e86adbef1f4967cd9ea89f3925de","393260f70c012f788e8d104c07042389550c06223e11adf7173ca9b37832e2d4"],"id":"id-371","last_modified":1793436567633,"schema":1793436477159}
+{"description":"socket (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["66d3d7560a49e38866642eeb1eec037bdc5ebe8044e2860b1021028d4f2f663d"],"id":"id-371","last_modified":1793522422850,"schema":1793522312880}

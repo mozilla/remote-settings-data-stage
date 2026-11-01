@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): 8\ufffd","hashes":["46bdd54c051c2252e19490205f7f29bf5b984a757132fa264c3a048c3798b6e0"],"id":"id-356","last_modified":1793436567166,"schema":1793436458472}
+{"description":"gpu (Android nightly): mozilla::layers::CompositorBridgeParent::DisconnectApzcTreeManager","hashes":["027edf5280e8517dba2251729d04af19cfe5b7792c7abe3a6415ac12ccddff75","9d5332330b8e77464b88beef1a16bfb2878010a749b6433ff49900acee36d839"],"id":"id-356","last_modified":1793522421996,"schema":1793522293044}
