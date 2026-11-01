@@ -1,0 +1,1 @@
+{"Domain":"wizzair.com","id":"f48b0240-55a2-4cdd-bd70-b3c40c28ef39","last_modified":1793552410937,"password-rules":"minlength: 12; maxlength: 16; required: lower; required: upper; required: digit; required: special;"}

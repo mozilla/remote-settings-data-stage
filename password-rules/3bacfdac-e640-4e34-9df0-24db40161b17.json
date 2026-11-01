@@ -1,0 +1,1 @@
+{"Domain":"monidentifiant.sncf","id":"3bacfdac-e640-4e34-9df0-24db40161b17","last_modified":1793552410924,"password-rules":"minlength: 12; maxlength: 72; required: lower; required: upper; required: digit; required: [!#$%&*@^];"}

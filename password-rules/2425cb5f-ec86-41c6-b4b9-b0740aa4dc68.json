@@ -1,1 +1,1 @@
-{"Domain":"bloomingdales.com","id":"2425cb5f-ec86-41c6-b4b9-b0740aa4dc68","last_modified":1624479192115,"password-rules":"minlength: 7; maxlength: 16; required: lower, upper; required: digit; required: [`!@#$%^&*()+~{}'\";:<>?]];"}
+{"Domain":"bloomingdales.com","id":"2425cb5f-ec86-41c6-b4b9-b0740aa4dc68","last_modified":1793552410898,"password-rules":"minlength: 7; maxlength: 16; required: lower; required: upper; required: digit; allowed: [~`!@#$%^&*(){}[:;\"'<>?+]];"}
