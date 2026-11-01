@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::layers::ImageBridgeChild::ClearImagesFromCompositable","hashes":["4962371157673064891a742ee94b343082b8578d118eee51908a43cff7737085","9c5128588571c5ee8d450a03768d201ebfd6a20cee323b39f07cfa86506903e5"],"id":"id-085","last_modified":1793436568315,"schema":1793436116384}
+{"description":"utility (Mac release): mozilla::detail::MethodCall<T>::Invoke","hashes":["fb2aeec156c630b9922129f8d7a603e3bc12a7185aa41eaaaaa458f387f9ed2a"],"id":"id-085","last_modified":1793522423696,"schema":1793521926316}
