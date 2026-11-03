@@ -1,0 +1,1 @@
+{"bugIds":["2081202"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d1819261-fd99-4cf6-93c4-1b7d9fa1b43a","last_modified":1793701167892,"schema":1793701112844,"topLevelUrlPattern":"*://www.airbnb.co.nz/*","urlPattern":"*://a0.muscache.com/*"}
