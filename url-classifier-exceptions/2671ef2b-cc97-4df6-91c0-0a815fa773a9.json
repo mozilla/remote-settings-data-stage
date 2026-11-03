@@ -1,0 +1,1 @@
+{"bugIds":["2087447"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2671ef2b-cc97-4df6-91c0-0a815fa773a9","last_modified":1793698289061,"schema":1793671814115,"topLevelUrlPattern":"*://9to5mac.com/*","urlPattern":"*://polls.polldaddy.com/*"}
