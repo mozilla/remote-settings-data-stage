@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::FrameProperties::PropertyComparator::Equals","hashes":["22570771b7e187737ace00ed37c785c275c9a7cf83c52f4fa822524d567d0843"],"id":"id-168","last_modified":1793697659635,"schema":1793697249899}
+{"description":"socket (Mac release): abort | base::MessagePumpKqueue::DoInternalWork","hashes":["bf8a8c9638280b49acf52f14e45ed4b82030affd619c6281f1eb1de68cb80e94"],"id":"id-168","last_modified":1793784010508,"schema":1793783631722}

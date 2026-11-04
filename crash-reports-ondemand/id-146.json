@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::Array<T>::operator[]","hashes":["14a3dd0e7bb6631a03be558e24ba5c317e8e2105a2d45a0cffa2e900365b2fe6"],"id":"id-146","last_modified":1793697659313,"schema":1793697218112}
+{"description":"content (Linux nightly): js::gc::AllocSite::zone","hashes":["4a98668cd661d779dc3ddae897506666c144b419b112193a46b10d2122773f6d","52174a22342dc6348d240eda16cedbad72364906835e7d239210f0f540f36a94"],"id":"id-146","last_modified":1793784010279,"schema":1793783601053}
