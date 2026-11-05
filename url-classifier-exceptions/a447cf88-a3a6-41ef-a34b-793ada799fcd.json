@@ -1,0 +1,1 @@
+{"bugIds":["2088845"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a447cf88-a3a6-41ef-a34b-793ada799fcd","last_modified":1793881110611,"schema":1793797437413,"topLevelUrlPattern":"*://www.condor.com/*","urlPattern":"*://hello.myfonts.net/*"}
