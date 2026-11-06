@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): IPC::ParamTraits<mozilla::net::LoadInfoArgs>::Read | IPC::ParamTraits<mozilla::net::WebrtcProxyConfig>::Read | mozilla::dom::PMediaTransportParent::OnMessageReceived","hashes":["62e498b47c34cab0358f4eac20a15beb5bd408a6d1ad3d7396fb8f6e337697e7"],"id":"id-315","last_modified":1793784008750,"schema":1793783824125}
+{"description":"socket (Windows beta): @0x54e0030","hashes":["b619a6776f1b85507e9d24ca5724b01850e4ffc7ac49a9505e69a87811718db6"],"id":"id-315","last_modified":1793956786068,"schema":1793956604502}
