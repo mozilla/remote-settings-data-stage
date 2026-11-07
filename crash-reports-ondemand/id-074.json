@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): nr_ice_ctx_create","hashes":["acffaf5c712608c5e18f0d00b8ac0fc605d6886139b540773f72f1829b750fd2"],"id":"id-074","last_modified":1793956786254,"schema":1793956302710}
+{"description":"socket (Windows beta): IPC::ParamTraits<mozilla::net::LoadInfoArgs>::Read | IPC::ParamTraits<mozilla::net::WebrtcProxyConfig>::Read | mozilla::dom::PMediaTransportParent::OnMessageReceived","hashes":["62e498b47c34cab0358f4eac20a15beb5bd408a6d1ad3d7396fb8f6e337697e7"],"id":"id-074","last_modified":1794042585469,"schema":1794042103167}
