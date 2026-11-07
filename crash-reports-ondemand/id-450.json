@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | wgpu_core::command::render::draw","hashes":["15534a0b70d68ee1384d41eb553998822d5c810f4cb9b28cac4bc93cf0048047"],"id":"id-450","last_modified":1793956787695,"schema":1793956773279}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["96b6b3e333c7c30ae6f5ae4d39b4b38a6018d7adc92fb4eaffaba548ea71b09b"],"id":"id-450","last_modified":1794042587085,"schema":1794042570073}
