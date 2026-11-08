@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | webrender::device::upload::UploadBufferPool::end_frame","hashes":["a46e156f96901e639cdbf010ea959e755155bbf00fa453a301d5fe83c9882977"],"id":"id-166","last_modified":1794042584981,"schema":1794042218015}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["96b6b3e333c7c30ae6f5ae4d39b4b38a6018d7adc92fb4eaffaba548ea71b09b"],"id":"id-166","last_modified":1794127775352,"schema":1794127415029}
