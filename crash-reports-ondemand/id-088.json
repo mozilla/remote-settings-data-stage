@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): InProcessClient64.dll | TppExecuteWaitCallback","hashes":["7e6dc28bc94b6a6a148a89271bef48059b3614701fc06e7fd29bb6768b3c9976"],"id":"id-088","last_modified":1794042586478,"schema":1794042120476}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["e112603ca70ec7018955442c898fb7d67aa82ec5eaa13abbc4410e5f1261ed44"],"id":"id-088","last_modified":1794127776840,"schema":1794127317668}

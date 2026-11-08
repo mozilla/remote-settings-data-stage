@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::ProcessNewTransaction","hashes":["b6db4cac99f64195281653287a65f7f3419508ecef6d1f8739429ab5004e952b","d54c8b2f7c7630a02634e1e9fc6514d78e1722bfeaa28c0845862d57540cbf26"],"id":"id-039","last_modified":1794042587269,"schema":1794042057958}
+{"description":"utility (Windows nightly): stackoverflow | RtlUnwindEx | __FrameHandler4::UnwindNestedFrames","hashes":["9d1b7f1d9e66d5f508c59b848c911191ee95e0d63f14ca273accc1f550f259c7"],"id":"id-039","last_modified":1794127777657,"schema":1794127257714}
