@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): NewArrayBufferObject<T>","hashes":["f28155b84ad6971395fb5c21ac57388c1d32103f279765ac54725de7c18d52b7","351218fe1fe890b82a75f0db4991447a3fb92d9b1ea9ae20fffde4c215398973"],"id":"id-398","last_modified":1794127775254,"schema":1794127703294}
+{"description":"content (Linux nightly): nsTArray_Impl<T>::ApplyIf<T> | mozilla::FrameProperties::GetInternal","hashes":["a32020f0212d5637919ca1038e2796c5867463c02d9d0bb92eff3be4b99a0c20"],"id":"id-398","last_modified":1794214175346,"schema":1794214102939}
