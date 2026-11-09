@@ -1,0 +1,1 @@
+{"bugIds":["2040907"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"19d74de7-9eb7-4929-85f5-095a410a8f15","last_modified":1794224138981,"schema":1794017411480,"topLevelUrlPattern":"*://www.shein.co.uk/*","urlPattern":"*://img.ltwebstatic.com/*"}
