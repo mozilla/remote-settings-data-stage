@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): js::gc::Arena::getAllocKind","hashes":["155d0d950ca581039b79528befb0662e60fa8b610414b8fd2afb3ece17665e3f","10d67aba1b79444fe91d2b4a117df5f88742563bf03834975dc546fdbc4d066d"],"id":"id-419","last_modified":1794214175544,"schema":1794214128737}
+{"description":"rdd (Windows nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::ContentChild::RecvConstructBrowser","hashes":["8cf752aed672b1e93338b5c53e5de6ada6453fe1ee6a596970a98597ebb8fde0"],"id":"id-419","last_modified":1794301807424,"schema":1794301737204}

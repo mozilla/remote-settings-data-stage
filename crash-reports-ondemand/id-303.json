@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JS::MapGCThingTyped<T>","hashes":["3c04507db6190c0b956ec5d4a3655c0f9a52a2f780fc8a30f79ce77385e1072b","50b02734b2f2827e4d17a08ce9b62170b4ee761f41efc7d3f5d44b61751452b0"],"id":"id-303","last_modified":1794214176303,"schema":1794213984607}
+{"description":"main (Mac nightly): mozilla::net::WebTransportSessionProxy::OnDataAvailable","hashes":["68d6b13eb6b6b480ad0b9168e6963b8c15ff0bf62657ec95be2910404dcf7a92"],"id":"id-303","last_modified":1794301808494,"schema":1794301590604}
