@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["7053ee54453c7f7075d7cde38ed47e744065ad536073ce38f641999cbc19ab7b","5874a5fca9c073cd7252591cd60a0136951d3691ae48787cef4ce4c060171223"],"id":"id-456","last_modified":1794301810294,"schema":1794301783164}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["45004f37131e0ae74028cdef170e4c36c40eaf1519ee8f86247e4c7f99284226"],"id":"id-456","last_modified":1794388203976,"schema":1794388180653}

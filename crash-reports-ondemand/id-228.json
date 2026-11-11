@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::ReadableStreamReaderGenericInitialize","hashes":["5486de103149ae5267ac483a7c6c4c7dd6cbb26c5273b7e9518937b17b52d5fe"],"id":"id-228","last_modified":1794301809334,"schema":1794301495038}
+{"description":"plugin (Linux release): libxul.so","hashes":["d8698d004115e5538dba6804d7c582c0a61e7d3e60278a3ac77c0157eb910a37"],"id":"id-228","last_modified":1794388204158,"schema":1794387896291}
