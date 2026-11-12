@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): xul.dll | BaseThreadInitThunk","hashes":["98f2123d99a12af6f809e4a5dd421824ad573b3bdb8a1e67f38fc460a1f50c71"],"id":"id-250","last_modified":1794388204369,"schema":1794387925607}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["e112603ca70ec7018955442c898fb7d67aa82ec5eaa13abbc4410e5f1261ed44"],"id":"id-250","last_modified":1794473409429,"schema":1794473124553}
