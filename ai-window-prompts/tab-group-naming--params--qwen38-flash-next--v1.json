@@ -1,0 +1,1 @@
+{"feature":"tab-group-naming","id":"tab-group-naming--params--qwen38-flash-next--v1","is_default":true,"kind":"params","last_modified":1794516921264,"model":"qwen38-flash-next","modules":[{"name":"system-instructions","version":"1.1"},{"name":"user-data","version":"1.0"}],"parameters":"{}","purpose":"auto-tab-grouping","schema":1794250671682,"service_type":"ai","version":"1.2"}
