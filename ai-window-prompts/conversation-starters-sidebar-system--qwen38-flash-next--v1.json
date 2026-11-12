@@ -1,0 +1,1 @@
+{"additional_components":[],"feature":"conversation-starters-sidebar-system","id":"conversation-starters-sidebar-system--qwen38-flash-next--v1","is_default":true,"last_modified":1794499505768,"model":"qwen38-flash-next","model_details":"{}","parameters":"{}","prompts":"Return only the requested suggestions, one per line.","schema":1794250671682,"version":"1.1"}
