@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libnativedisplay.so","hashes":["64d1d2b45e721a7e50c01c643234852599a428e36d5965c3796e6a9bdf228e33","55f8f3dc97096f256f61ed222866a37987fa1b59e632995eb93a37cb9ab5bf79"],"id":"id-259","last_modified":1794388203242,"schema":1794387936661}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["45004f37131e0ae74028cdef170e4c36c40eaf1519ee8f86247e4c7f99284226"],"id":"id-259","last_modified":1794473408112,"schema":1794473135608}
