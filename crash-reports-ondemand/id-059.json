@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::StyledRangeCollection::GetAbstractRangeAt","hashes":["18a0e0984db02d9b4dabd7ccf09a950823550828c05285095c8975f05b1550c7"],"id":"id-059","last_modified":1794473409996,"schema":1794472880247}
+{"description":"main (Mac beta): AUVoiceProcessor::PropertyChanged","hashes":["c7c47f05202d0d6e780c70967ee1cf466f7bc3899c91c5f2d3438c7d10eb030f"],"id":"id-059","last_modified":1794559809620,"schema":1794559280872}
