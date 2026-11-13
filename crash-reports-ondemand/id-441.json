@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libnativedisplay.so","hashes":["df07c3dd62b6c86b03caffe7839eebac2d0190cd1b5a63372c3811b72b18cc30","64d1d2b45e721a7e50c01c643234852599a428e36d5965c3796e6a9bdf228e33"],"id":"id-441","last_modified":1794473408244,"schema":1794473365624}
+{"description":"socket (Linux release): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["32326d4682b5f7c21251e3c47338ea2e9455b7a84b25e7c54c2b585794dcc269"],"id":"id-441","last_modified":1794559807745,"schema":1794559767333}

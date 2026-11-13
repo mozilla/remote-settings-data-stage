@@ -1,1 +1,1 @@
-{"description":"plugin (Mac release): -[EXExtensionPointEnumerator nextObject]","hashes":["0dca3ced8348a4a49a7247248c298d43b34b73672417e8b841de24b790989b2a"],"id":"id-413","last_modified":1794473406534,"schema":1794473331105}
+{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["9feb08cbec5ad1eae566f23c7ed48b207cdff91b0cda4e377d16459cecd45c82"],"id":"id-413","last_modified":1794559807189,"schema":1794559732375}
