@@ -1,0 +1,1 @@
+{"feature":"agent-monitor-setup","id":"agent-monitor-setup--params--generic--v1","is_default":true,"kind":"params","last_modified":1794600305202,"model":"generic","modules":[{"name":"system-instructions","version":"1.0"},{"name":"user-data","version":"1.0"}],"parameters":"{\"temperature\": 0.2}","purpose":"monitor","schema":1794521825813,"service_type":"agent","version":"1.0"}
