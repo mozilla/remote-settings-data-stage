@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["2336ebbe5dd1cd6cb2611e707184e5638a41adf86711803b4f21b4eaedcf08df"],"id":"id-039","last_modified":1794559809701,"schema":1794559256178}
+{"description":"plugin (Mac release): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["e3dd11a0cd81a6c599ef8e897e3275f515144bd1e75b79bcf65c2771d5c56ceb"],"id":"id-039","last_modified":1794644419565,"schema":1794643860238}

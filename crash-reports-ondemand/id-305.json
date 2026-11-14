@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): _sigtramp","hashes":["3767120808c328345fc1a2dc083a8a51ed757f86ddc08fae27aa612553310471"],"id":"id-305","last_modified":1794559809308,"schema":1794559594523}
+{"description":"utility (Mac release): nsTArray_Impl<T>::end | mozilla::MozPromise<T>::DispatchAll","hashes":["c85ac0184f298636aae8fac29d98fc14fd5e68c34feacaf8cc11f8da00c801f8"],"id":"id-305","last_modified":1794644419313,"schema":1794644197710}

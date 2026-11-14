@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::Selection::SelectFrames","hashes":["0b52280ac22bd9043e782248a7db6afe75232900ba74d657eee1f2ad0ba912a1"],"id":"id-112","last_modified":1794559808797,"schema":1794559349455}
+{"description":"content (Android nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["8d14e246d7e98bc30ced7502ede0b9cc8b0f7ae8a8ae0724d60c1687819b5824","78c82ffecd54cf16e800a9cf579ec154fed37e17f916a99367206ce3093f39a6"],"id":"id-112","last_modified":1794644418616,"schema":1794643950797}
