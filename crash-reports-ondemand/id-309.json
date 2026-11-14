@@ -1,1 +1,1 @@
-{"description":"plugin (Linux nightly): mozilla::gmp::GMPChild::GetUTF8LibPath","hashes":["0289099a97cf0c63015029edf770502658556d263ea4f82a035a6aa6f9a202e4"],"id":"id-309","last_modified":1794559807590,"schema":1794559599516}
+{"description":"gpu (Android nightly): mozilla::layers::CompositorBridgeParent::DisconnectApzcTreeManager","hashes":["e35f5b6f6fa2c2d7d6cfd66ee1560bb49093e1645afff095f45e9fa50a3515be"],"id":"id-309","last_modified":1794644416972,"schema":1794644202788}

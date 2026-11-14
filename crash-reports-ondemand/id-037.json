@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): FoldVisitor::internalVisitCall","hashes":["334bb9e37fc624b710e39d3507e4a7bed09c3a3dba3805eec4a3b498bdddc15c"],"id":"id-037","last_modified":1794559808067,"schema":1794559253732}
+{"description":"rdd (Linux beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::PRemoteDecoderParent::OnMessageReceived","hashes":["fe0450d63d09b1b807c7690d1a3b4c61551df87d81ba8206fb23bd404339d164"],"id":"id-037","last_modified":1794644417301,"schema":1794643857770}
