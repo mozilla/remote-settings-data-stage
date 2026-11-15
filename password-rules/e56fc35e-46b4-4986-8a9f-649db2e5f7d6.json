@@ -1,1 +1,1 @@
-{"Domain":"southwest.com","id":"e56fc35e-46b4-4986-8a9f-649db2e5f7d6","last_modified":1624479191659,"password-rules":"minlength: 8; maxlength: 16; required: upper; required: digit; allowed: lower, [!@#$%^*(),.;:/\\];"}
+{"Domain":"southwest.com","id":"e56fc35e-46b4-4986-8a9f-649db2e5f7d6","last_modified":1794762012858,"password-rules":"minlength: 8; maxlength: 16; required: upper; required: digit; allowed: lower;"}
