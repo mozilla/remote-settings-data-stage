@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["abb06e5b906c534571e9781d84beabe36670b7c70b8e04415ab377f036bfd3ea"],"id":"id-148","last_modified":1794644418985,"schema":1794643998415}
+{"description":"socket (Mac release): mozilla::detail::RWLockImpl::readLock","hashes":["b60dd491be664bd2b048e1daa709558f915a8d0df2e81bc0d2a4b1f9201b6b64"],"id":"id-148","last_modified":1794731419073,"schema":1794730996844}

@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["c024864b4cfbb433db87fb027e80c5af0d0e3a414389c090a0b62f393edc971e","54145bfb9965113d313c7421454e33f5206df41b458336161e7f65019d0995de"],"id":"id-450","last_modified":1794644419207,"schema":1794644382900}
+{"description":"plugin (Mac release): mozilla::StaticMutex::Lock","hashes":["1a2d93c3e488dc5d53b4f85cf18ba524d136ca0c3feff2bf663972cc4f73ddfd"],"id":"id-450","last_modified":1794731419250,"schema":1794731379633}
