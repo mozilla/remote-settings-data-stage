@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): NewArrayBufferObject<T>","hashes":["3600aa6fda4972d81d520faf9337d6b6f43a197402559d3087b1c49d1790fa61"],"id":"id-263","last_modified":1794644417240,"schema":1794644144243}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["71cee24ea90efbd166a9fb9b3166ce76f27f32a2115357080c55cb8bdece41e5","1a9e2a16e3ebf1ab7a023492dea57075cafc47b32dedfa6fbb16e32a2a3a9abc"],"id":"id-263","last_modified":1794731417936,"schema":1794731144830}
