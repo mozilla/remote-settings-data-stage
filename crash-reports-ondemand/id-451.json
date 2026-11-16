@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): <alloc::vec::Vec<T> as alloc::vec::spec_from_iter_nested::SpecFromIterNested<T, I>>::from_iter","hashes":["755288dbc2b8f1b5e216923ad8887280adef527df05e1d2c7ad1713e381e41a7"],"id":"id-451","last_modified":1794731419120,"schema":1794731380855}
+{"description":"utility (Mac release): js::ProfilingStackFrame::initLabelFrame","hashes":["e604c42472774019b996264b98d3fba580d5433c69cfb82a2db8922f754bbc86"],"id":"id-451","last_modified":1794817830930,"schema":1794817790782}

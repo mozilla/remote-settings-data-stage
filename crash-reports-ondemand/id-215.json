@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | large | js::AutoEnterOOMUnsafeRegion::crash_impl | <.plt ELF section in libxul.so> | <.plt ELF section in libxul.so> | js::DefineDataProperty","hashes":["7c70764ddab5cd79bc6146cc6acd6fe7e10e8989ebd485f61f98d0331e377952"],"id":"id-215","last_modified":1794731418605,"schema":1794731082541}
+{"description":"plugin (Mac release): -[EXExtensionPointEnumerator nextObject]","hashes":["0dca3ced8348a4a49a7247248c298d43b34b73672417e8b841de24b790989b2a"],"id":"id-215","last_modified":1794817830354,"schema":1794817486590}
