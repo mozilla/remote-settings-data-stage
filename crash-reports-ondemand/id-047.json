@@ -1,1 +1,1 @@
-{"description":"main (Android release): java.lang.OutOfMemoryError","hashes":["997f8931bf2b26b8c334c5d2541d1d6e9935ada1c2a5c3923f8604d0e2ecd39a"],"id":"id-047","last_modified":1794817830408,"schema":1794817269158}
+{"description":"gpu (Android nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["e242e8319e6e468f7662ad35ed7f3529ac0c13df266741f4b08020001cacdcc6"],"id":"id-047","last_modified":1794906035920,"schema":1794905469845}

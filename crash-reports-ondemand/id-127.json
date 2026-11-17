@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): gralloc.rogue.so","hashes":["0f6cabf4e759b8babe65a6bdc4146676a609c1b5c77d922c0fddd23e9589a85d"],"id":"id-127","last_modified":1794817831894,"schema":1794817372306}
+{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["eec505beac2f53f87d70d172247de0d5a6c934e1691c7a70fb0073c45eff4567","303994438263f962bcf7798a850a73fbdeac8f40e04cb1e098b8581261f49c19"],"id":"id-127","last_modified":1794906036982,"schema":1794905574147}

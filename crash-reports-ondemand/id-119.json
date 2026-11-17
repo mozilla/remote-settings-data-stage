@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): libxul.so | firefox","hashes":["ca03e3d15a9cfd1c699db4dc12ed20edf0a54e8ae9efba11f406911027b3c133","36319cd6045a71a85eeef6a44c7ec6436949a4bf03edb9b3d73f9340ab12a0c7","9461205340b1bdc4a55bbeb91f0efe214e484a9da60a8ea693c5aaa8e3496ccc"],"id":"id-119","last_modified":1794817832455,"schema":1794817362090}
+{"description":"content (Mac nightly): mozilla::RestyleManager::ProcessPostTraversal","hashes":["6e092e95db462ea5c9fd5112350ada514d6c381011a2efd1890059cd0f8684de"],"id":"id-119","last_modified":1794906037456,"schema":1794905563813}
