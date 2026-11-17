@@ -1,0 +1,1 @@
+{"feature":"aitab","id":"aitab--user-data--generic--v2","kind":"module","last_modified":1794957450743,"model":"generic","module":"user-data","prompts":"Focus: {focus}\n\nSOURCE CONTENT (pages separated by <----- PAGE BREAK ---->):\n{pageContent}\n","schema":1794942570082,"version":"2.0"}
