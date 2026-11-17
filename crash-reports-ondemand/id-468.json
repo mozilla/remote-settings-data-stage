@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::APZBridgeParent::APZBridgeParent","hashes":["f9892b52b5be6be701026d0cf05dc2a55ac566fe9938926d83385c618d3c643c"],"id":"id-468","last_modified":1794817829513,"schema":1794817812921}
+{"description":"socket (Linux release): PR_TicksPerSecond | PR_IntervalToMilliseconds | mozilla::SimpleTokenBucket::getTokens","hashes":["17921e95248f09b1a44a960b74ac83c4123770fb1114aaacb8d70406ac005a35"],"id":"id-468","last_modified":1794906035259,"schema":1794906018367}
