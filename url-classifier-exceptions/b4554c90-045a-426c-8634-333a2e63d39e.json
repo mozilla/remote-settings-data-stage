@@ -1,0 +1,1 @@
+{"bugIds":["2093433"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b4554c90-045a-426c-8634-333a2e63d39e","last_modified":1794967812719,"schema":1794967812097,"topLevelUrlPattern":"*://thuysinhtim.vn/*","urlPattern":"*://bizweb.dktcdn.net/*"}

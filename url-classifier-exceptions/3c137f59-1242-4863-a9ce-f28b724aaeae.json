@@ -1,0 +1,1 @@
+{"bugIds":["2092519"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3c137f59-1242-4863-a9ce-f28b724aaeae","last_modified":1794967812714,"schema":1794967812237,"topLevelUrlPattern":"*://www.shit-facedshakespeare.us/*","urlPattern":"*://mailchimp.com/*"}
