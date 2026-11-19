@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): CMTUseCountedObjectRootEx<T>::Lock","hashes":["36d25803baef2429a3c6a1759ec21db88e5890d948f109ef92050953252aa931"],"id":"id-208","last_modified":1794906036492,"schema":1794905677674}
+{"description":"content (Mac nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["80cbd8c7a8c1689fdf6959363f97ea9d2b98c1f1aa47e1619712571a3bd23c57"],"id":"id-208","last_modified":1795080049932,"schema":1795079684614}
