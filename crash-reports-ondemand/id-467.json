@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): js::gc::TenuredCell::zoneFromAnyThread","hashes":["cbae04458a1ccf213cfb8c435ccc09e21a177f1563b2b21c4c766685ad27de5a","bef8a0eb15890b94157d8d0fdfc7a76d04e4685bdef96fa8501086bc66b7a951"],"id":"id-467","last_modified":1794906033663,"schema":1794906017132}
+{"description":"content (Linux beta): nsWrapperCache::GetWrapperMaybeDead","hashes":["e7691bc0c34f6d51e34421d2e0c170843798b87103a40b2da10f64211a523787","cb0912b97f2391b3b0cc9cbbccb747e998c7d00327ec89c4b004ff6f7cd23f96"],"id":"id-467","last_modified":1795080046577,"schema":1795080033556}
