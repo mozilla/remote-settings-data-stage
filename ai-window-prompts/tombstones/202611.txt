@@ -1,1 +1,8 @@
 1793991904557	agent-monitor--params--qwen3-5-122b-a10b--v2
+1795118705199	aitab--params--gemini-3-1-flash-lite--v2
+1795118705202	aitab--params--generic--v2
+1795118705206	aitab--params--mistral-small-2603--v2
+1795118705209	aitab--params--qwen3-235b-a22b-instruct-2507-maas--v2
+1795118705223	aitab--system-instructions--mistral-small-2603--v2
+1795118705227	aitab--system-instructions--qwen3-235b-a22b-instruct-2507-maas--v2
+1795118705231	aitab--system-instructions--qwen38-flash-next--v2
