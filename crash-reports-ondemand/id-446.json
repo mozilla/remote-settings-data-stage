@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsGlobalWindowInner::ThawInternal","hashes":["9f85514a445d1d08f45a034ae59360f9be5ccbcfb3ae22da9c05d4dbe2e149d5","76ea4c22cd2450848269ed7618524d378c8a1881775eb865993cde90724739e6"],"id":"id-446","last_modified":1795080049382,"schema":1795080004054}
+{"description":"content (Android beta): mozilla::jni::Accessor::EndAccess<T>","hashes":["e5797e832921012fc837917d65d44e055c2c6e14943c116273e8963c26ebb530"],"id":"id-446","last_modified":1795165227855,"schema":1795165177102}

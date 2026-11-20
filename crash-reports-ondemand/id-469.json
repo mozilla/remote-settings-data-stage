@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["a2e673456b9cbcac28336aed612b10073b4ae0f082a7ae0bdcb442da1a52ab56"],"id":"id-469","last_modified":1795080050620,"schema":1795080036323}
+{"description":"utility (Windows beta): SageThumbs.dll | CIconAndThumbnailOplockWrapper::GetIconLocation","hashes":["d56c5bea10281d8f2145526e4e4de10300ac47caf66b950ba9014cc64b3f2a9b"],"id":"id-469","last_modified":1795165228807,"schema":1795165206166}

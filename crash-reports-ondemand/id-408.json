@@ -1,1 +1,1 @@
-{"description":"plugin (Windows nightly): widevinecdm.dll","hashes":["4b7d5c222ff51593a7f2f50ee20a3d4eb5766032f85d63f712b59aec92c5c50a","6b82b018f72e9b54d2051054252fb66dc0ecf05c8cac999b7230f46ae327031a"],"id":"id-408","last_modified":1795080050923,"schema":1795079950924}
+{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | libxul.so | mozilla::BaseTimeDuration<T>::ToSeconds","hashes":["e6b9279189c88a46cbf99c78f113f97cad9534bc8e7bacd6b1b89f033a6f5736"],"id":"id-408","last_modified":1795165229310,"schema":1795165130166}

@@ -1,1 +1,1 @@
-{"description":"plugin (Mac release): @0x6800001200","hashes":["d6f40c38e413ee2c00f1b031162267ec7d930b16bdeb6bb364052b10223d58f4"],"id":"id-400","last_modified":1795080050111,"schema":1795079940353}
+{"description":"rdd (Linux beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::PRemoteDecoderParent::OnMessageReceived","hashes":["fe0450d63d09b1b807c7690d1a3b4c61551df87d81ba8206fb23bd404339d164"],"id":"id-400","last_modified":1795165228408,"schema":1795165119772}
