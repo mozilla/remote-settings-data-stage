@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_adreno.so","hashes":["95e4b5211c6f7afda2a0c60bdf904bae76d7e10e4bbe071994a2212b2d016df7","181fd59a2f148fadd514b2791d194b0113c668989a346509ea25883728152cbd"],"id":"id-075","last_modified":1795080047743,"schema":1795079510315}
+{"description":"socket (Mac release): arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["ad23cdd1d023d99d61c3a8b67c8648877a88679222d806c2a4f8535ab9c4587e"],"id":"id-075","last_modified":1795165226321,"schema":1795164704882}
