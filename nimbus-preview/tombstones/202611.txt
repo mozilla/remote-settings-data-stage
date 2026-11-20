@@ -26,3 +26,7 @@
 1795033952782	vbandac-feature-config-ipprotection-sticky
 1795033956308	vbandac-feature-config-ipprotection-sticky-control-rollout
 1795033959887	cfat-qa-5439-feature-configuration-testing-for-expandsigninbutton-rollout
+1795193066456	brendan-rollout-approval-testing
+1795193070055	glenda-rollout-approval-testing
+1795193073604	eric-rollout-approval-testing
+1795193077144	daniel-rollout-approval-testing
