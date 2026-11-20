@@ -1,1 +1,1 @@
-{"cities":[{"code":"MXP","name":"Italy","servers":[{"hostname":"mxp69.m1.fastly-masque.net","port":2499,"quarantined":true}]}],"code":"IT","id":"7f83b60d-8fae-46e8-933f-9c72b85992bd","last_modified":1795005071511,"locked":true,"name":"Italy","schema":1794873623293}
+{"cities":[{"code":"LIME","name":"Italy","servers":[{"hostname":"lime121.m1.fastly-masque.net","port":2499}]}],"code":"IT","id":"7f83b60d-8fae-46e8-933f-9c72b85992bd","last_modified":1795206607965,"locked":true,"name":"Italy","schema":1795005071763}
