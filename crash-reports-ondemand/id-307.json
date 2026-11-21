@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | large | js::AutoEnterOOMUnsafeRegion::crash_impl | libxul.so | Mutex::Unlock","hashes":["f1654a37b64d1ccbaa14369480448aec3413c5bb0601565e3759b3ee8aa8c58b"],"id":"id-307","last_modified":1795165227915,"schema":1795165000957}
+{"description":"plugin (Linux release): mozilla::SetMediaPluginSandbox","hashes":["8455d6a451c5aa6dc466449775d84499f673e524275875ca8fbc9c20ac3bd15b"],"id":"id-307","last_modified":1795251025134,"schema":1795250801073}
