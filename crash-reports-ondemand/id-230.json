@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): <unknown in ntdll.dll> | RtlEnterCriticalSection | CBrowserProgressAggregator::s_WndProc","hashes":["7f3605a171d5d4a6e5843c30d711168a9b36ac48daea3b67ff3980e5c063187e"],"id":"id-230","last_modified":1795251022628,"schema":1795250702089}
+{"description":"plugin (Linux nightly): mozilla::gmp::GMPChild::GetUTF8LibPath","hashes":["60ebd25adf03aca00aa9b4734b6aac9d68bc1a81483205aa1baf1e59bd878879"],"id":"id-230","last_modified":1795336836079,"schema":1795336514409}
