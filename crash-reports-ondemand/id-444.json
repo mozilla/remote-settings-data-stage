@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | large | NS_ABORT_OOM | mozilla::dom::Timeout::SetTimeoutContainer","hashes":["e31151be9f01ee71679147ec5c75f79601df5128c38ae306b57d3031a4b4af92"],"id":"id-444","last_modified":1795251025016,"schema":1795250974533}
+{"description":"socket (Mac release): arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["ad23cdd1d023d99d61c3a8b67c8648877a88679222d806c2a4f8535ab9c4587e"],"id":"id-444","last_modified":1795336838498,"schema":1795336787094}
