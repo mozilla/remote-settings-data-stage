@@ -1,1 +1,1 @@
-{"description":"plugin (Linux release): @0x1babcdf5","hashes":["4ca2f8def36b25384ca6b4b087f045b833f13e79b225d901dc1f3f092cd835d4"],"id":"id-448","last_modified":1795336839144,"schema":1795336791990}
+{"description":"utility (Windows beta): RtlRaiseNoncontinuableException | RaiseFailFastException | wil::details::WilDynamicLoadRaiseFailFastException","hashes":["e8ddbd9529281895d0213d4743e20a39aa638e49f1d20874d3d350c58b6db8e1"],"id":"id-448","last_modified":1795424447523,"schema":1795424396897}

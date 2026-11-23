@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_adreno.so","hashes":["181fd59a2f148fadd514b2791d194b0113c668989a346509ea25883728152cbd","95e4b5211c6f7afda2a0c60bdf904bae76d7e10e4bbe071994a2212b2d016df7"],"id":"id-141","last_modified":1795336839719,"schema":1795336400429}
+{"description":"plugin (Android nightly): mozilla::gmp::GMPChild::RecvCrashPluginNow","hashes":["be382966afa86f16493b52911108fb1f4b535f4e1fa71a1f8e3f29a1adcb2657","e533998f8dd71c1141c668708662da6b39169f20968bf5b4957e8321c3a2a170"],"id":"id-141","last_modified":1795424448155,"schema":1795423994891}
