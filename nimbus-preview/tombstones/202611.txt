@@ -32,3 +32,7 @@
 1795193077249	daniel-rollout-approval-testing
 1795430803822	avarro-low-pop-percentage-ios
 1795534852445	glenda-multi-branch-test
+1795618196975	ppop-fxa-targeting
+1795618200488	ppop-fxa-targeting2
+1795618204425	ppop-last-heartbeat-2
+1795618208230	ppop-exclude-2
