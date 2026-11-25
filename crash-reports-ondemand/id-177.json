@@ -1,1 +1,1 @@
-{"description":"plugin (Linux release): libxul.so | firefox","hashes":["9729a01a32e23255f0ecda4928c6a5d93c2f93b73bd76c740ad8ae4c38abc1fd"],"id":"id-177","last_modified":1795424444116,"schema":1795424039726}
+{"description":"content (Android nightly): OOM | unknown | NS_ABORT_OOM | mozilla::jni::ReportException","hashes":["b3870f561c75240b51ae9f67e74ab76cafb820e5a3f4a265f1debe5db3f22404","89da21651df28cd013d4d989d97d8acb973e74c9956572b82b8829839220af52"],"id":"id-177","last_modified":1795596639072,"schema":1795596240545}

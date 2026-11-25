@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::Http2Session::VerifyStream","hashes":["602f1bd2aa223bbf60baf3c2d4e1e4a38906d4783365823fe07b60a83b366e0f","bcd151e941934490713d612ff4715927d8b90bf4ed2b07f4b666adf26744f32c"],"id":"id-283","last_modified":1795424443949,"schema":1795424176835}
+{"description":"utility (Linux beta): mozilla::MozPromise<T>::ChainTo","hashes":["fe8a0b3bd831b6f45c9ae41e6b7a43a88caefea940accdd6dd70f097c903b233"],"id":"id-283","last_modified":1795596638920,"schema":1795596378889}
