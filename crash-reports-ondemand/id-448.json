@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlRaiseNoncontinuableException | RaiseFailFastException | wil::details::WilDynamicLoadRaiseFailFastException","hashes":["e8ddbd9529281895d0213d4743e20a39aa638e49f1d20874d3d350c58b6db8e1"],"id":"id-448","last_modified":1795424447523,"schema":1795424396897}
+{"description":"plugin (Linux release): base::WaitableEvent::TimedWait","hashes":["8b67e148c9005c4367ab6318ac0b6839198d491e539b80b3f4985c179ff949a1"],"id":"id-448","last_modified":1795596641586,"schema":1795596593007}
