@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::ipc::UntypedEndpoint::Bind","hashes":["d791f6b71c5e711225c65f27c7328f1bccdccde3d879aa571b47fe53dc7f71b3"],"id":"id-147","last_modified":1795596639921,"schema":1795596200030}
+{"description":"content (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["268da238f76fa93cf22521602f53cd12c3cd84b4b68f110d7e5ffd0a3f6b1b4a","9fdfb5220538658d93fbad92df1a165b0b5eeedb515ac47956723616d8653f90"],"id":"id-147","last_modified":1795681805764,"schema":1795681396221}

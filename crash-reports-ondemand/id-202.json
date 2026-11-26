@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | AutoTArray<T>::~AutoTArray","hashes":["ea50ad8d48302b7c553363d022cb3df7f94474143c3772a9da34b1251119e190"],"id":"id-202","last_modified":1795596639957,"schema":1795596272874}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["a8da5491f3a6358140125fa5cce8b79473a4b87aecec7f6940c68573afc6ed88"],"id":"id-202","last_modified":1795681805802,"schema":1795681467514}
