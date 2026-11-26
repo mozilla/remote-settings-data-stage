@@ -1,1 +1,1 @@
-{"description":"content (Windows nightly): xul.dll","hashes":["acda3307ce3e4dffdf5bc29404be5ee139202423c2b01881c256c3aa63a81619","93093805ed66be8c9bde772fa5ee41f7ed8db0f2a75df8938f6f93971b40eaf8","f4e758583f717c263abbf54355244345750ac6db61dbe51908610cc6e5776abf"],"id":"id-427","last_modified":1795596641317,"schema":1795596566361}
+{"description":"content (Linux nightly): js::StringFlags::isLinear","hashes":["6befed690338e0c98592db8205883f2f919bb1be20530d64626bccb81779d8b2"],"id":"id-427","last_modified":1795681807310,"schema":1795681757566}

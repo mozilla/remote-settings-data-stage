@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | NS_ABORT_OOM | mozilla::jni::ReportException","hashes":["a819609069bad5e55861e9bf073533993a064a1fc801cc9cc31dd2364ef96f41","f5b83b9ccb09f005f2606187f3bfad9d34cba6b44d33333d0d784546d851fe6e"],"id":"id-373","last_modified":1795596641900,"schema":1795596497156}
+{"description":"content (Android nightly): js::gc::Arena::getAllocKind","hashes":["0fff95bf7203a9bf0101fc4607d303e3c19ef164b0d9921a790b5acd459e7d05"],"id":"id-373","last_modified":1795681807926,"schema":1795681686688}

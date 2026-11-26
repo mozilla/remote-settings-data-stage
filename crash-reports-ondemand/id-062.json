@@ -1,1 +1,1 @@
-{"description":"plugin (Linux release): arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["6f76c64d4d672ea8c6d4fe11534f98d7aff3334e16449d42f2c33ee3a7f972c5"],"id":"id-062","last_modified":1795596641330,"schema":1795596091564}
+{"description":"content (Mac nightly): mozilla::Omnijar::Init","hashes":["8bad00b64c7837d489bf0a7ae1832e4db50e35e8f28488b71e8d3d885146ee03","2a526b3aefa1dfc7596ece1b0759016e83b36b5cb75b3aa35255edfb65f20dea"],"id":"id-062","last_modified":1795681807325,"schema":1795681288293}
