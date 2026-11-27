@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::layout::TextDrawTarget::CreateSimilarDrawTarget","hashes":["06ef3c85551f418ef5da77aaa3a8f7e2e3d540b8419fc609421878c1f7d9537e"],"id":"id-387","last_modified":1795681808210,"schema":1795681704505}
+{"description":"socket (Mac release): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::net::nsSocketTransportService::DoPollIteration","hashes":["a721c2a0c30851a4e70ddc32d082d3b33519220479a2473f7b6606ed3b739475"],"id":"id-387","last_modified":1795767609770,"schema":1795767508478}

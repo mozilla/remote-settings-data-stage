@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | NS_ABORT_OOM | mozilla::jni::ReportException","hashes":["a819609069bad5e55861e9bf073533993a064a1fc801cc9cc31dd2364ef96f41","f5b83b9ccb09f005f2606187f3bfad9d34cba6b44d33333d0d784546d851fe6e"],"id":"id-381","last_modified":1795681807442,"schema":1795681697050}
+{"description":"content (Mac nightly): IPCError-content | ShutDownKill","hashes":["95e82aeb09eeb51ae07161e828f7bf14d8362979e8b3e0603ff4e3290caefc07"],"id":"id-381","last_modified":1795767608796,"schema":1795767500776}
