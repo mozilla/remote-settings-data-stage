@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | nsDocShellLoadState::nsDocShellLoadState","hashes":["18be1e9ea4f9d7dbcf10082696e5af920ee3d814e61c79e5c1d38f047943ca23"],"id":"id-215","last_modified":1795681804906,"schema":1795681483672}
+{"description":"main (Linux nightly): mozilla::widget::WlLogHandler","hashes":["bc2c8c6895a755bda2b0510bb1428ae2ef9790db17062506ee4ab3c0b28da965","90f2b8cbf8f45a91b50df31cfe37569d310c2353ad825a31083df42f6f71257b"],"id":"id-215","last_modified":1795767605606,"schema":1795767285493}
