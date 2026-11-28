@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JS::loader::ModuleLoaderBase::RegisterImportMap::$::operator()<T>","hashes":["a596cdbf0790f5517febdbfb20e1a5a81e3112b753231f57559d6a8c396ce109"],"id":"id-140","last_modified":1795767605931,"schema":1795767190867}
+{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["9ac244b9bf8e35ab4b4e0d848cbf561c195477f13fde833deacf57b829b77ff8"],"id":"id-140","last_modified":1795854002304,"schema":1795853583556}

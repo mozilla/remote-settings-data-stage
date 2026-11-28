@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["e4b37d7cb1905f543d26e4c9c6ae961bdbf26925ef8949491dbd8415baee58af"],"id":"id-454","last_modified":1795767605283,"schema":1795767596283}
+{"description":"gpu (Mac beta): IPCError-content | GPUProcessKill","hashes":["9dc0ba2dc15c577c78bc1b1026fd51c78f53597938d39074cd97df65da36aded"],"id":"id-454","last_modified":1795854001801,"schema":1795853980818}
