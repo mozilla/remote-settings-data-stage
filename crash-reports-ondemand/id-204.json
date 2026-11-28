@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["3e50f271bdf358fd02f2e3104a356ed65899950350382a2c4e4ed4e85390d127"],"id":"id-204","last_modified":1795767608539,"schema":1795767271470}
+{"description":"gpu (Mac nightly): mozilla::layers::CanvasTranslator::ReadNextEvent","hashes":["54d520b48737b5ef05bf987b5ed207344a065a29bb4562f66962f98fd85c57ed"],"id":"id-204","last_modified":1795854004952,"schema":1795853665536}

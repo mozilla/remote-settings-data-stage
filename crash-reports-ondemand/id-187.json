@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::TransformStream::SetBackpressure","hashes":["62a1597d89f6ee0260e74cc30b717bb57118e09b0aafb849775207b577d04f24"],"id":"id-187","last_modified":1795767608534,"schema":1795767250084}
+{"description":"gpu (Mac beta): mozilla::layers::APZBridgeParent::APZBridgeParent","hashes":["0f8cfc143f85c631fb32295b7ef8a6598eb3485072105da874af0460fc9af13f"],"id":"id-187","last_modified":1795854004949,"schema":1795853644122}
